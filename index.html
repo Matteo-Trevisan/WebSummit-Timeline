@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RT2Z1J64GG"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-RT2Z1J64GG');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Summit Timeline</title>
+    <meta name="description" content="Every Web Summit talk, stage and track on one interactive timeline.">
+    <meta name="theme-color" content="#06060c">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@500;700;800;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #06060c;
+            --text: #f5f5f7;
+            --muted: #9a9aae;
+            --line: rgba(255, 255, 255, 0.1);
+            --pink: #ff2e88;
+            --violet: #7b5cff;
+            --cyan: #00d4ff;
+            --gradient: linear-gradient(100deg, var(--pink), var(--violet) 50%, var(--cyan));
+        }
+
+        * { box-sizing: border-box; }
+
+        html { background: var(--bg); }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 3rem 1rem;
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            color: var(--text);
+            text-align: center;
+            overflow-x: hidden;
+        }
+
+        a { color: inherit; text-decoration: none; }
+
+        /* --- Background: glows + grid --- */
+        .bg {
+            position: fixed;
+            inset: 0;
+            z-index: -1;
+            overflow: hidden;
+            pointer-events: none;
+        }
+        .glow {
+            position: absolute;
+            width: 55vmax;
+            height: 55vmax;
+            border-radius: 50%;
+            filter: blur(100px);
+            opacity: 0.35;
+            animation: drift 22s ease-in-out infinite alternate;
+        }
+        .glow.pink   { background: var(--pink);   top: -25vmax; left: -15vmax; }
+        .glow.violet { background: var(--violet); bottom: -30vmax; right: -20vmax; animation-delay: -7s; }
+        .glow.cyan   { background: var(--cyan);   top: 35%; left: 55%; width: 30vmax; height: 30vmax; opacity: 0.22; animation-delay: -14s; }
+        .grid {
+            position: absolute;
+            inset: 0;
+            background-image:
+                linear-gradient(var(--line) 1px, transparent 1px),
+                linear-gradient(90deg, var(--line) 1px, transparent 1px);
+            background-size: 64px 64px;
+            opacity: 0.35;
+            mask-image: radial-gradient(ellipse at center, #000 20%, transparent 70%);
+            -webkit-mask-image: radial-gradient(ellipse at center, #000 20%, transparent 70%);
+        }
+        @keyframes drift {
+            to { transform: translate(8vmax, 6vmax) scale(1.15); }
+        }
+
+        main {
+            width: 100%;
+            max-width: 640px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 2.5rem;
+        }
+
+        /* --- Hero --- */
+        .badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.375rem 0.875rem;
+            border: 1px solid var(--line);
+            border-radius: 999px;
+            background: rgba(255, 255, 255, 0.04);
+            backdrop-filter: blur(8px);
+            font-size: 0.8125rem;
+            color: var(--muted);
+        }
+        .badge .dot {
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: var(--pink);
+            box-shadow: 0 0 10px var(--pink);
+        }
+        h1 {
+            margin: 1.25rem 0 0;
+            font-family: 'Inter Tight', sans-serif;
+            font-weight: 900;
+            font-size: clamp(3rem, 13vw, 5.5rem);
+            line-height: 0.95;
+            letter-spacing: -0.04em;
+        }
+        h1 .accent {
+            background: var(--gradient);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+        .tagline {
+            max-width: 30rem;
+            margin: 1.25rem auto 0;
+            font-size: 1.0625rem;
+            line-height: 1.6;
+            color: var(--muted);
+        }
+
+        /* --- Featured edition --- */
+        .latest {
+            position: relative;
+            display: block;
+            width: 100%;
+            padding: 2.25rem 1.5rem 2rem;
+            border-radius: 1.75rem;
+            background: rgba(14, 14, 24, 0.75);
+            backdrop-filter: blur(16px);
+            transition: transform 0.25s ease, box-shadow 0.25s ease;
+            box-shadow: 0 20px 60px -20px rgba(123, 92, 255, 0.55);
+        }
+        /* gradient border */
+        .latest::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            padding: 1.5px;
+            border-radius: inherit;
+            background: var(--gradient);
+            -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+            -webkit-mask-composite: xor;
+            mask-composite: exclude;
+        }
+        .latest:hover,
+        .latest:focus-visible {
+            transform: translateY(-4px);
+            box-shadow: 0 30px 80px -20px rgba(255, 46, 136, 0.6);
+            outline: none;
+        }
+        .latest .eyebrow {
+            font-size: 0.75rem;
+            font-weight: 600;
+            letter-spacing: 0.14em;
+            text-transform: uppercase;
+            color: var(--muted);
+        }
+        .latest .year {
+            display: block;
+            margin-top: 0.25rem;
+            font-family: 'Inter Tight', sans-serif;
+            font-weight: 900;
+            font-size: clamp(5rem, 26vw, 9rem);
+            line-height: 1;
+            letter-spacing: -0.05em;
+            background: var(--gradient);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+        .latest .where {
+            margin-top: 0.5rem;
+            font-size: 1.0625rem;
+            font-weight: 500;
+        }
+        .stats {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 0.5rem 1.75rem;
+            margin-top: 1.5rem;
+            min-height: 2.75rem;
+        }
+        .stats div { display: flex; flex-direction: column; }
+        .stats strong {
+            font-family: 'Inter Tight', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 800;
+        }
+        .stats span { font-size: 0.8125rem; color: var(--muted); }
+        .cta {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-top: 1.75rem;
+            padding: 0.875rem 1.75rem;
+            border-radius: 999px;
+            background: var(--text);
+            color: var(--bg);
+            font-weight: 600;
+        }
+        .cta .arrow { transition: transform 0.25s ease; }
+        .latest:hover .cta .arrow { transform: translateX(4px); }
+
+        /* --- Past editions --- */
+        .past h2 {
+            margin: 0 0 0.875rem;
+            font-size: 0.75rem;
+            font-weight: 600;
+            letter-spacing: 0.14em;
+            text-transform: uppercase;
+            color: var(--muted);
+        }
+        .past nav {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 0.75rem;
+        }
+        .past a {
+            display: flex;
+            align-items: baseline;
+            gap: 0.625rem;
+            padding: 0.75rem 1.25rem;
+            border: 1px solid var(--line);
+            border-radius: 1rem;
+            background: rgba(255, 255, 255, 0.04);
+            backdrop-filter: blur(8px);
+            transition: border-color 0.2s ease, background-color 0.2s ease;
+        }
+        .past a:hover,
+        .past a:focus-visible {
+            border-color: var(--violet);
+            background: rgba(123, 92, 255, 0.12);
+            outline: none;
+        }
+        .past strong { font-family: 'Inter Tight', sans-serif; font-size: 1.25rem; font-weight: 800; }
+        .past small { font-size: 0.8125rem; color: var(--muted); }
+
+        footer {
+            font-size: 0.8125rem;
+            line-height: 1.6;
+            color: var(--muted);
+        }
+        footer a { text-decoration: underline; text-underline-offset: 3px; }
+        footer a:hover { color: var(--text); }
+
+        @media (prefers-reduced-motion: reduce) {
+            .glow { animation: none; }
+            .latest, .cta .arrow { transition: none; }
+        }
+    </style>
+</head>
+<body>
+    <div class="bg" aria-hidden="true">
+        <div class="glow pink"></div>
+        <div class="glow violet"></div>
+        <div class="glow cyan"></div>
+        <div class="grid"></div>
+    </div>
+
+    <main>
+        <header>
+            <span class="badge"><span class="dot"></span>Unofficial schedule viewer</span>
+            <h1>Web <span class="accent">Summit</span></h1>
+            <p class="tagline">Every talk, every stage, one interactive timeline. Filter by track and see what's happening right now.</p>
+        </header>
+
+        <a class="latest" href="2026/">
+            <span class="eyebrow">Latest edition</span>
+            <span class="year">2026</span>
+            <div class="where">9-12 November · Lisbon</div>
+            <div class="stats" id="stats"></div>
+            <span class="cta">Open the timeline <span class="arrow">→</span></span>
+        </a>
+
+        <section class="past">
+            <h2>Past editions</h2>
+            <nav aria-label="Past editions">
+                <a href="2025/"><strong>2025</strong><small>10-13 Nov · Lisbon</small></a>
+            </nav>
+        </section>
+
+        <footer>
+            Not affiliated with Web Summit. Data from the official schedule.<br>
+            <a href="https://github.com/Matteo-Trevisan/WebSummit-2025">Source on GitHub</a>
+        </footer>
+    </main>
+
+    <script>
+    // Live numbers for the latest edition (the schedule keeps growing until the event)
+    fetch('2026/websummit_schedule.json')
+        .then(r => r.json())
+        .then(events => {
+            const stages = new Set(events.map(e => e.location?.name).filter(Boolean));
+            const tracks = new Set(events.map(e => e.schedule_track?.name).filter(Boolean));
+            const stats = [[events.length, 'events'], [stages.size, 'stages'], [tracks.size, 'tracks']];
+            document.getElementById('stats').innerHTML = stats
+                .map(([n, label]) => `<div><strong>${n.toLocaleString('en')}</strong><span>${label}</span></div>`)
+                .join('');
+        })
+        .catch(() => {});
+    </script>
+</body>
+</html>
