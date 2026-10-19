@@ -1,0 +1,73 @@
+name: Update schedule
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: "Edizione da aggiornare (nome della cartella)"
+        required: true
+        default: "2026"
+      min_events:
+        description: "Numero minimo di eventi perché il file sia accettato"
+        required: true
+        default: "300"
+      ignore_drop:
+        description: "Accetta anche se gli eventi calano molto rispetto al file attuale"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-schedule
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      YEAR: ${{ inputs.year }}
+      MIN_EVENTS: ${{ inputs.min_events }}
+      MIN_RATIO: ${{ inputs.ignore_drop && '0' || '0.8' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check inputs
+        run: |
+          [[ "$YEAR" =~ ^[0-9]{4}$ ]] || { echo "Anno non valido: $YEAR"; exit 1; }
+          [[ "$MIN_EVENTS" =~ ^[0-9]+$ ]] || { echo "min_events non valido: $MIN_EVENTS"; exit 1; }
+          [ -d "$YEAR" ] || { echo "La cartella $YEAR non esiste"; exit 1; }
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      # Lo scraper scrive nella cartella corrente: lo lancio fuori dal repo
+      - name: Run scraper
+        working-directory: ${{ runner.temp }}
+        run: python "$GITHUB_WORKSPACE/scraper_v2.py"
+
+      - name: Validate
+        run: |
+          python validate_schedule.py \
+            "$RUNNER_TEMP/websummit_schedule_completo_v5.json" \
+            "$YEAR/websummit_schedule.json" \
+            --year "$YEAR" --min-events "$MIN_EVENTS" --min-ratio "$MIN_RATIO"
+
+      - name: Commit and push
+        run: |
+          cp "$RUNNER_TEMP/websummit_schedule_completo_v5.json" "$YEAR/websummit_schedule.json"
+          if git diff --quiet; then
+            echo "Nessuna modifica rispetto alla schedule attuale." | tee -a "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$YEAR/websummit_schedule.json"
+          git commit -m "Updated schedule $YEAR"
+          git push
+          echo "Schedule $YEAR aggiornata e pubblicata." | tee -a "$GITHUB_STEP_SUMMARY"

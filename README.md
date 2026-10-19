@@ -27,6 +27,8 @@ An interactive, user-friendly timeline of all official WebSummit events, one pag
 .
 ├── index.html        # Landing page with links to every edition (GitHub Pages entry point)
 ├── scraper_v2.py     # Downloads the schedule from the WebSummit API
+├── validate_schedule.py  # Sanity checks a downloaded schedule before publishing it
+├── .github/workflows/update-schedule.yml  # One-click "scrape, validate, commit" workflow
 ├── 2025/             # WebSummit 2025 timeline
 │   ├── index.html
 │   ├── app.js
@@ -62,6 +64,18 @@ mv websummit_schedule_completo_v5.json 2026/websummit_schedule.json
 ```
 
 > The scraper doesn't take a year: it downloads whatever edition the WebSummit API is serving at the moment (normally the upcoming one). Keep past years' JSON files as they are.
+
+### Automatic update (GitHub Action)
+
+The **Update schedule** workflow (`.github/workflows/update-schedule.yml`) does all of the above with one click: *Actions → Update schedule → Run workflow*.
+
+It runs the scraper, then checks the result with `validate_schedule.py` before replacing `<year>/websummit_schedule.json`:
+
+*   at least `min_events` events, and no fewer than 80% of the ones currently published (overall and per day);
+*   every event has the required fields and belongs to the requested edition (e.g. `lis26`), so a new edition served by the API never overwrites the old one;
+*   no duplicate ids, no events ending before they start.
+
+If any check fails, nothing is committed and the run summary explains why. If the data is unchanged, nothing is committed either. Use the `ignore_drop` option only when a big drop in events is expected.
 
 ## 🚀 Running locally
 
