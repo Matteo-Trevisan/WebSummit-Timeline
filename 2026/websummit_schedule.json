@@ -510,6 +510,48 @@
     "livevoice_url": null
   },
   {
+    "id": "cf3cd9a6-8555-4d9c-97f0-c18ef8b664f4",
+    "slug": "better-living-at-home-display-for-real-and-ai-for-reality",
+    "title": "Better living at home: Display for real and AI for reality",
+    "description": "Display technology and AI are evolving rapidly, but their greatest potential lies in how they work together. Advances in display technology deliver more lifelike visual experiences, while AI better understands people, environments and daily needs. Through perspectives on RGB display tech, contextual intelligence and connected services, join Hisense President Dennys Li in exploring how technology can become more natural, useful and human-centred, creating better experiences that improve everyday life.",
+    "date": "November 10",
+    "starts_at": "2026-11-10T10:30:00Z",
+    "ends_at": "2026-11-10T10:50:00Z",
+    "duration": "",
+    "location": {
+      "id": "9c42fad4-f5a8-45cf-a373-69f6b6593329",
+      "name": "Stage 7",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "779af561-7f2c-4a49-a7c5-03248e1b3920",
+        "name": "Dennys Li",
+        "company_name": "Hisense Visual Technology",
+        "job_title": "President",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/8filxe4znd68exeisvogl99c9twb?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/8filxe4znd68exeisvogl99c9twb?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/8filxe4znd68exeisvogl99c9twb?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/8filxe4znd68exeisvogl99c9twb?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/8filxe4znd68exeisvogl99c9twb?ixlib=rails-4.3.1"
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Corporate Innovation Summit",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "954fb52c-62e6-4f93-8697-862e7c827989",
     "slug": "platform-engineering-meetup",
     "title": "Platform engineering meetup",
@@ -716,6 +758,48 @@
     "schedule_track": {
       "id": "",
       "name": "New Media Summit",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
+    "id": "f41e79bb-9c65-4e5e-8686-41270b0bbd49",
+    "slug": "how-real-are-job-interviews-anymore",
+    "title": "How real are job interviews anymore?",
+    "description": "Behind viral social clips of applicants using AI to cheat virtual interviews lies a threat to corporate security: synthetic candidates infiltrating core enterprise systems. As generative video, real-time voice cloning and AI-inflated profiles proliferate, traditional candidate verification has failed. Join Phenom co-founder and CEO Mahe Bayireddi as he examines the mechanics of the fake candidate epidemic. Discover how enterprises deploy AI-driven counter-agents to audit candidate authenticity, secure recruitment pipelines and shut down synthetic fraud before it reaches the payroll.",
+    "date": "November 10",
+    "starts_at": "2026-11-10T10:35:00Z",
+    "ends_at": "2026-11-10T10:55:00Z",
+    "duration": "",
+    "location": {
+      "id": "f42e279b-efba-48af-b96b-906241065ce2",
+      "name": "Stage 4",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "4ba9e781-e75e-43a7-b960-be4131968bc5",
+        "name": "Mahe Bayireddi",
+        "company_name": "Phenom",
+        "job_title": "CEO & co-founder",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/9rg2yvhn5ncuopnna5d83hgc56cg?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/9rg2yvhn5ncuopnna5d83hgc56cg?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/9rg2yvhn5ncuopnna5d83hgc56cg?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/9rg2yvhn5ncuopnna5d83hgc56cg?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/9rg2yvhn5ncuopnna5d83hgc56cg?ixlib=rails-4.3.1"
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Future of Work Summit",
       "description": "",
       "custom_order": 0
     },
@@ -974,11 +1058,11 @@
         "job_title": "Co-founder & CEO",
         "role": "",
         "avatar_urls": {
-          "tiny": "https://web-summit-engine.imgix.net/amz5hu6gwytbcuewt8vcb0x8tr4r?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
-          "thumb": "https://web-summit-engine.imgix.net/amz5hu6gwytbcuewt8vcb0x8tr4r?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
-          "medium": "https://web-summit-engine.imgix.net/amz5hu6gwytbcuewt8vcb0x8tr4r?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
-          "large": "https://web-summit-engine.imgix.net/amz5hu6gwytbcuewt8vcb0x8tr4r?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
-          "original": "https://web-summit-engine.imgix.net/amz5hu6gwytbcuewt8vcb0x8tr4r?ixlib=rails-4.3.1"
+          "tiny": "https://web-summit-engine.imgix.net/6ppln5ogem1x7fgurwj17u620r9m?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/6ppln5ogem1x7fgurwj17u620r9m?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/6ppln5ogem1x7fgurwj17u620r9m?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/6ppln5ogem1x7fgurwj17u620r9m?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/6ppln5ogem1x7fgurwj17u620r9m?ixlib=rails-4.3.1"
         }
       },
       {
@@ -1378,8 +1462,8 @@
   },
   {
     "id": "d9edb83c-9258-47b7-a224-5f58df34ae8b",
-    "slug": "the-future-of-impact-finance-who-shapes-it-hosted-by-community-partner-the-aga-khan-foundation",
-    "title": "The Future of Impact Finance: Who Shapes It? hosted by Community Partner, The Aga Khan Foundation ",
+    "slug": "the-future-of-impact-finance-who-shapes-it",
+    "title": "The Future of Impact Finance: Who Shapes It? ",
     "description": "What should the future of impact finance look like, and who needs to work together to build it? Join us for a meetup hosted by our community partner, The Aga Khan Foundation.",
     "date": "November 10",
     "starts_at": "2026-11-10T11:00:00Z",
@@ -1450,7 +1534,7 @@
     "id": "ce9c9136-ad9c-49ad-844b-4e51aaac9c87",
     "slug": "impact-startups-meetup",
     "title": "🌱 Impact startups meetup",
-    "description": "Calling all impact startups at Web Summit: your people are here! 🙌🏼. Exchange insights, discuss challenges, and expand your network. Join us!",
+    "description": "Building a startup that does good and makes money 🌱? Meet founders tackling social challenges, from health and education to inclusion and access, and swap notes on measuring impact and raising for it. See you there!",
     "date": "November 10",
     "starts_at": "2026-11-10T11:00:00Z",
     "ends_at": "2026-11-10T11:55:00Z",
@@ -1627,7 +1711,7 @@
     "id": "18d529c9-2935-47c1-a76a-918ad48ca527",
     "slug": "middle-east-innovators-meetup",
     "title": "🐪 Middle East innovators meetup",
-    "description": "Calling all entrepreneurs, investors and innovators from the Middle East at Web Summit. Exchange insights, discuss challenges, and expand your network. Join us!",
+    "description": "Calling all entrepreneurs, investors and innovators from the Middle East, and everyone doing business in the region 🤝. Meet across borders, exchange insights and expand your network. See you there!",
     "date": "November 10",
     "starts_at": "2026-11-10T11:00:00Z",
     "ends_at": "2026-11-10T11:55:00Z",
@@ -3197,7 +3281,7 @@
     "id": "a21f6117-a2c9-4149-8d65-bfeb6a38039d",
     "slug": "sports-performance-leaders-meetup",
     "title": "🏉 Sports & performance leaders meetup",
-    "description": "Connect with international sport and performance leaders at Web Summit! Exchange insights, discuss challenges, and expand your network. Join us!",
+    "description": "Running a club, league or sports brand? Meet the executives, sportstech founders and investors shaping the business of sport, and swap notes on fans, data and new revenue 🏟️. See you there!",
     "date": "November 10",
     "starts_at": "2026-11-10T12:00:00Z",
     "ends_at": "2026-11-10T12:25:00Z",
@@ -3414,7 +3498,7 @@
     "id": "397e5775-9be9-471e-b660-24196fe51554",
     "slug": "lisbon-founders-ceos-meetup",
     "title": "🇵🇹 Lisbon founders & CEOs meetup",
-    "description": "Calling all Lisbon founders and CEOs at Web Summit: your people are here! 🙌🏼.Exchange insights, discuss challenges, and expand your network. Join us!",
+    "description": "Calling all Lisbon founders and CEOs at Web Summit. Meet fellow leaders from the city's startup scene, share what you're building and connect with the people shaping Lisbon's tech ecosystem. See you there.",
     "date": "November 10",
     "starts_at": "2026-11-10T12:00:00Z",
     "ends_at": "2026-11-10T12:55:00Z",
@@ -3438,8 +3522,8 @@
   },
   {
     "id": "24377139-a92a-4736-8106-5d05d5759a6c",
-    "slug": "tech-for-palestine-meetup-hosted-by-community-partner-t4p",
-    "title": "Tech for Palestine Meetup, hosted by Community Partner T4P",
+    "slug": "tech-for-palestine-meetup",
+    "title": "Tech for Palestine Meetup",
     "description": "Join us for a meetup hosted by our community partner, Tech for Palestine.",
     "date": "November 10",
     "starts_at": "2026-11-10T12:00:00Z",
@@ -3786,14 +3870,14 @@
         "attendance_id": "c5e6f874-ef00-4a25-a911-c0b52ba914c5",
         "name": "Aja Whitaker-Moore",
         "company_name": "The Wall Street Journal",
-        "job_title": "Deputy Editor-in-Chief",
+        "job_title": "Deputy Editor in Chief",
         "role": "",
         "avatar_urls": {
-          "tiny": "https://web-summit-engine.imgix.net/82ccyfn9z4wl89owic7tcit8afwb?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
-          "thumb": "https://web-summit-engine.imgix.net/82ccyfn9z4wl89owic7tcit8afwb?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
-          "medium": "https://web-summit-engine.imgix.net/82ccyfn9z4wl89owic7tcit8afwb?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
-          "large": "https://web-summit-engine.imgix.net/82ccyfn9z4wl89owic7tcit8afwb?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
-          "original": "https://web-summit-engine.imgix.net/82ccyfn9z4wl89owic7tcit8afwb?ixlib=rails-4.3.1"
+          "tiny": "https://web-summit-engine.imgix.net/4dq1drjikreipeu1bw4memp7wn9z?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/4dq1drjikreipeu1bw4memp7wn9z?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/4dq1drjikreipeu1bw4memp7wn9z?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/4dq1drjikreipeu1bw4memp7wn9z?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/4dq1drjikreipeu1bw4memp7wn9z?ixlib=rails-4.3.1"
         }
       },
       {
@@ -3953,6 +4037,21 @@
           "medium": "https://web-summit-engine.imgix.net/xnlvzuux9laos8aexz0fwia556bc?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
           "large": "https://web-summit-engine.imgix.net/xnlvzuux9laos8aexz0fwia556bc?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
           "original": "https://web-summit-engine.imgix.net/xnlvzuux9laos8aexz0fwia556bc?ixlib=rails-4.3.1"
+        }
+      },
+      {
+        "id": "",
+        "attendance_id": "1bf2fd4b-1e36-4dc7-b877-0e1f4482d044",
+        "name": "Soumaya Ben Beya Dridje",
+        "company_name": "Rasmal Ventures",
+        "job_title": "Partner",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/9xyjbgr75ie13xm0v73no7d3yi34?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/9xyjbgr75ie13xm0v73no7d3yi34?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/9xyjbgr75ie13xm0v73no7d3yi34?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/9xyjbgr75ie13xm0v73no7d3yi34?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/9xyjbgr75ie13xm0v73no7d3yi34?ixlib=rails-4.3.1"
         }
       },
       {
@@ -4135,6 +4234,32 @@
     "location": {
       "id": "37210453-3f27-4163-9f34-e4cb6ec59e2a",
       "name": "Masterclass 3",
+      "venue": ""
+    },
+    "timeslot_participations": [],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Masterclasses",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
+    "id": "2ac488bf-54c0-4eaa-bedc-5dd271625643",
+    "slug": "the-attack-has-started-now-what-log360-ai-in-action-hosted-by-manageengine",
+    "title": "The attack has started now what? Log360 & AI in action [Hosted by ManageEngine]",
+    "description": "An alert fires. What happens next? See Log360 in action: investigate threats with Zia AI and build a playbook to automate your response. Presentation delivered in Portuguese. Please be aware that attendance is first-come, first-served.",
+    "date": "November 10",
+    "starts_at": "2026-11-10T12:30:00Z",
+    "ends_at": "2026-11-10T13:15:00Z",
+    "duration": "",
+    "location": {
+      "id": "e573d92d-aea6-4ae5-8705-70e42393c342",
+      "name": "Masterclass 4",
       "venue": ""
     },
     "timeslot_participations": [],
@@ -4386,8 +4511,8 @@
   {
     "id": "5b3fabd6-9dc3-4495-9db2-bf1227094a08",
     "slug": "what-are-you-building-meetup",
-    "title": "⚡️ What are you building meetup",
-    "description": "Everyone's building something: the question is whether they'll admit it's not working yet. Meet the builders, indie hackers, and product people building it at Web Summit. Join us!",
+    "title": "🧱 What are you building meetup",
+    "description": "Show, don't pitch 🧱. Bring whatever you're building, from side project to startup, share it in a minute and get honest feedback from fellow builders, indie hackers and product people. See you there!",
     "date": "November 10",
     "starts_at": "2026-11-10T13:00:00Z",
     "ends_at": "2026-11-10T13:55:00Z",
@@ -4463,9 +4588,9 @@
   },
   {
     "id": "1524845c-370e-4161-b2c3-b7a38c6aaf85",
-    "slug": "who-s-in-control-of-your-ai-hosted-by-lenovo",
-    "title": "Who’s in control of your AI? [Hosted by Lenovo]",
-    "description": "AI is only as ready as the devices behind it. Join a live demo of Lenovo Device Orchestration to see how IT can turn device complexity into a foundation for AI at scale. Please be aware that attendance is first-come, first-served.",
+    "slug": "building-a-secure-device-foundation-for-ai-hosted-by-lenovo",
+    "title": "Building a secure device foundation for AI [Hosted by Lenovo]",
+    "description": "AI adoption grows, but data exposure, security gaps, and cloud spend follow. See how a secure device foundation, combined with local and hybrid AI, gives organizations more control in a live demo. Please be aware that attendance is first-come, first-served.",
     "date": "November 10",
     "starts_at": "2026-11-10T13:00:00Z",
     "ends_at": "2026-11-10T13:45:00Z",
@@ -4637,6 +4762,32 @@
     "schedule_track": {
       "id": "",
       "name": "Investor Masterclass",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
+    "id": "95583770-20b4-4d84-9907-05f2850134b2",
+    "slug": "space-tech-meetup",
+    "title": "🛰️ Space tech meetup",
+    "description": "From satellites to space data, the space economy is closer to Earth than you think 🛰️! Meet the founders, engineers and investors building it and swap notes on what's next. See you there!",
+    "date": "November 10",
+    "starts_at": "2026-11-10T13:30:00Z",
+    "ends_at": "2026-11-10T13:55:00Z",
+    "duration": "",
+    "location": {
+      "id": "f27b2b4f-bd9d-46f8-af42-8370df6f6982",
+      "name": "Meetup 2",
+      "venue": ""
+    },
+    "timeslot_participations": [],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Meetup",
       "description": "",
       "custom_order": 0
     },
@@ -5070,21 +5221,6 @@
       },
       {
         "id": "",
-        "attendance_id": "b5f530b4-52a5-4487-ac6c-36b15dfc2b4b",
-        "name": "Jeff Johnson",
-        "company_name": "B Capital",
-        "job_title": "General Partner & Global Head of Energy",
-        "role": "",
-        "avatar_urls": {
-          "tiny": "https://web-summit-engine.imgix.net/3pd9adfg6vc6egosc7308j15dt1o?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
-          "thumb": "https://web-summit-engine.imgix.net/3pd9adfg6vc6egosc7308j15dt1o?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
-          "medium": "https://web-summit-engine.imgix.net/3pd9adfg6vc6egosc7308j15dt1o?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
-          "large": "https://web-summit-engine.imgix.net/3pd9adfg6vc6egosc7308j15dt1o?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
-          "original": "https://web-summit-engine.imgix.net/3pd9adfg6vc6egosc7308j15dt1o?ixlib=rails-4.3.1"
-        }
-      },
-      {
-        "id": "",
         "attendance_id": "86db041a-595a-42cd-a553-fdaa8481ac88",
         "name": "Terry Martin",
         "company_name": "Free agent",
@@ -5114,7 +5250,7 @@
     "id": "f87eec87-8c8e-49b6-b02d-857e10ca17f0",
     "slug": "deeptech-meetup",
     "title": "🔬 Deeptech meetup",
-    "description": "Fusion, small modular reactors, green hydrogen: the “ten years away” tech is getting closer ⚡! Meet founders, researchers and investors building on hard science and swap lab-to-market notes. See you there!",
+    "description": "Quantum, new materials, next-gen chips: the “ten years away” tech is getting closer ⚛️! Meet founders, researchers and investors building on hard science and swap lab-to-market notes. See you there!",
     "date": "November 10",
     "starts_at": "2026-11-10T14:00:00Z",
     "ends_at": "2026-11-10T14:25:00Z",
@@ -5294,11 +5430,11 @@
         "job_title": "CMO",
         "role": "",
         "avatar_urls": {
-          "tiny": "https://web-summit-engine.imgix.net/3t98mgrsa7vw8mvkcmf96cog367k?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
-          "thumb": "https://web-summit-engine.imgix.net/3t98mgrsa7vw8mvkcmf96cog367k?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
-          "medium": "https://web-summit-engine.imgix.net/3t98mgrsa7vw8mvkcmf96cog367k?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
-          "large": "https://web-summit-engine.imgix.net/3t98mgrsa7vw8mvkcmf96cog367k?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
-          "original": "https://web-summit-engine.imgix.net/3t98mgrsa7vw8mvkcmf96cog367k?ixlib=rails-4.3.1"
+          "tiny": "https://web-summit-engine.imgix.net/0q0j3sdxclkx1rrkabv8qirq9wxd?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/0q0j3sdxclkx1rrkabv8qirq9wxd?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/0q0j3sdxclkx1rrkabv8qirq9wxd?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/0q0j3sdxclkx1rrkabv8qirq9wxd?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/0q0j3sdxclkx1rrkabv8qirq9wxd?ixlib=rails-4.3.1"
         }
       }
     ],
@@ -5357,8 +5493,8 @@
   },
   {
     "id": "2a40e5f5-761b-4d32-a1ac-99ecd5eb86a0",
-    "slug": "zillennium-building-monetizable-businesses-as-a-gen-z-founder-hosted-by-our-community-partner-indvstry-clvb",
-    "title": "Zillennium: Building monetizable businesses as a gen Z founder, hosted by our Community Partner, Indvstry Clvb",
+    "slug": "zillennium-building-monetizable-businesses-as-a-gen-z-founder",
+    "title": "Zillennium: Building monetizable businesses as a gen Z founder.",
     "description": "Join this meetup to learn about Building monetizable businesses from culture and creator IP as a gen Z founder, hosted by our community partner, Indvstry Clvb.",
     "date": "November 10",
     "starts_at": "2026-11-10T14:00:00Z",
@@ -5400,7 +5536,7 @@
   {
     "id": "26661314-5fb1-472c-bfbf-cd3ccf6e969f",
     "slug": "let-s-talk-ai-ethics-responsible-tech-meetup",
-    "title": "🤖 Let's talk AI ethics & responsible tech meetup",
+    "title": "🧭 Let's talk AI ethics & responsible tech meetup",
     "description": "AI is moving faster than the rules meant to govern it. Meet the ethicists, policymakers, and technologists debating it at Web Summit. Join us!",
     "date": "November 10",
     "starts_at": "2026-11-10T14:00:00Z",
@@ -5427,7 +5563,7 @@
     "id": "152ad4b5-0bed-43d2-8a20-e64c61517b3f",
     "slug": "hardware-robotics-and-iot-founders-meetup",
     "title": "🦾 Hardware, robotics and IoT founders meetup",
-    "description": "Calling all hardware, robotics, and IoT founders at Web Summit: your people are here! 🙌🏼. Exchange insights, discuss challenges, and expand your network. Join us!",
+    "description": "Building something people can touch? Meet hardware, robotics and IoT founders and swap notes on prototyping, manufacturing and raising money for atoms, not just bits 🔩. See you there!",
     "date": "November 10",
     "starts_at": "2026-11-10T14:00:00Z",
     "ends_at": "2026-11-10T14:55:00Z",
@@ -6132,6 +6268,48 @@
     "livevoice_url": null
   },
   {
+    "id": "a171ebd5-2f35-4b0a-8918-271aaefa40e7",
+    "slug": "the-first-ai-that-builds-its-own-power-plant",
+    "title": "The first AI that builds its own power plant",
+    "description": "Energy is now the hardest limit on AI, as data centers queue for grid capacity that does not exist. This session shows the next step: AI agents that act in the physical world. They find homes, underwrite risk, deploy solar, batteries and heat pumps, and trade them as one distributed power plant. The result is a ramp where AI builds the energy it depends on, lowering household bills and freeing grid capacity for the next wave of compute.",
+    "date": "November 10",
+    "starts_at": "2026-11-10T14:35:00Z",
+    "ends_at": "2026-11-10T15:00:00Z",
+    "duration": "",
+    "location": {
+      "id": "685b779a-20e7-4280-b402-b239764fb6d6",
+      "name": "Stage 10",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "1f7675af-4e42-4aa4-ac14-1423205cd15d",
+        "name": "Johan Outinen",
+        "company_name": "Elvy",
+        "job_title": "Co-Founder & CEO",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/gdcjx7v1xf1n0rji4rlthquktqa9?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/gdcjx7v1xf1n0rji4rlthquktqa9?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/gdcjx7v1xf1n0rji4rlthquktqa9?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/gdcjx7v1xf1n0rji4rlthquktqa9?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/gdcjx7v1xf1n0rji4rlthquktqa9?ixlib=rails-4.3.1"
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Energy Summit",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "195464df-1e7b-4a20-8d0f-cd0ae742baab",
     "slug": "the-geopolitics-and-macrofinance-of-ai",
     "title": "The geopolitics and macrofinance of AI",
@@ -6822,8 +7000,8 @@
   },
   {
     "id": "a969fd7e-92dd-456d-b4bf-b52f6a942726",
-    "slug": "giving-with-purpose-a-philanthropy-social-impact-meetup-hosted-by-community-partner-the-lisbon-project",
-    "title": "Giving with Purpose: A Philanthropy & Social Impact Meetup. Hosted by Community Partner, The Lisbon Project",
+    "slug": "giving-with-purpose-a-philanthropy-social-impact-meetup",
+    "title": "Giving with Purpose: A Philanthropy & Social Impact Meetup",
     "description": "Join us for a meetup hosted by our community partner, The Lisbon Project.",
     "date": "November 10",
     "starts_at": "2026-11-10T15:00:00Z",
@@ -6941,6 +7119,32 @@
     "livevoice_url": null
   },
   {
+    "id": "6d2e2d51-ab0d-4e15-8d8d-c975bdab0d86",
+    "slug": "inside-the-robot-learning-stack-from-demonstrations-to-live-execution",
+    "title": "Inside the robot learning stack: From demonstrations to live execution",
+    "description": "Explore robot learning with Physical AI Studio and OpenVINO Physical AI: architecture, policy training and inference, brought together in a live robot demo.",
+    "date": "November 10",
+    "starts_at": "2026-11-10T15:00:00Z",
+    "ends_at": "2026-11-10T15:45:00Z",
+    "duration": "",
+    "location": {
+      "id": "c4becd02-1042-43fa-804f-814aef9a03fe",
+      "name": "Developer Lounge",
+      "venue": ""
+    },
+    "timeslot_participations": [],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "3d25a3db-de20-471d-9d19-8a9a98b939c9",
     "slug": "beyond-the-core-business-how-to-build-and-scale-new-revenue-streams",
     "title": "Beyond the core business: How to build and scale new revenue streams",
@@ -7001,7 +7205,7 @@
     "id": "3b229edd-92f0-4a6b-8fd4-f3953c2d1a79",
     "slug": "medtech-founders-innovators-meetup",
     "title": "🩺 Medtech founders & innovators meetup",
-    "description": "Calling all Medtech founders and innovators at Web Summit: your people are here! 🙌🏼.Exchange insights, discuss challenges, and expand your network. Join us!",
+    "description": "From wearables to diagnostics, medtech is moving fast 🩺. Meet founders and innovators building medical devices and health hardware, and swap notes on regulation, clinical trials and getting into hospitals. See you there!",
     "date": "November 10",
     "starts_at": "2026-11-10T15:00:00Z",
     "ends_at": "2026-11-10T15:55:00Z",
@@ -7114,7 +7318,7 @@
     "id": "1f5d8c09-ad92-44bd-8e29-e045b67944c5",
     "slug": "crazy-ideas-that-worked-meetup",
     "title": "🤯 Crazy ideas that worked meetup",
-    "description": "Every unicorn started as a crazy idea someone refused to kill. Meet the founders, risk-takers, and rule-breakers proving it at Web Summit. Join us!",
+    "description": "Every unicorn started as a crazy idea someone refused to kill 🤯. Meet founders whose unlikely bets are now working and hear what kept them going when everyone said no. See you there!",
     "date": "November 10",
     "starts_at": "2026-11-10T15:00:00Z",
     "ends_at": "2026-11-10T15:55:00Z",
@@ -7266,6 +7470,48 @@
     "livevoice_url": null
   },
   {
+    "id": "e957af71-80f6-4ba3-bd18-83725d37ad32",
+    "slug": "giving-ai-a-hand-the-dexterity-api-for-the-physical-world",
+    "title": "Giving AI a Hand: The Dexterity API for the Physical World",
+    "description": "AI can write code and plan complex tasks. But can a robot pick up a key without dropping it, or handle something fragile without crushing it? Xynova founder and CEO Alex Xia explores what it takes to give AI a capable pair of hands. Drawing on tendon-driven, direct-drive and hybrid designs, he reveals the engineering trade-offs behind precision, strength and reliable manipulation. Discover Xynova’s vision for a “dexterity API” for the physical world, and what it takes to turn AI decisions into useful action.",
+    "date": "November 10",
+    "starts_at": "2026-11-10T15:20:00Z",
+    "ends_at": "2026-11-10T15:40:00Z",
+    "duration": "",
+    "location": {
+      "id": "90a7d849-c0d0-473d-becf-b9cab8096e3d",
+      "name": "Stage 13",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "ba01aa1a-e000-4a1e-a794-8aecf3082ac2",
+        "name": "Yuxuan Xia",
+        "company_name": "Xynova",
+        "job_title": "Founder & CEO",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/eag7xjfx84zy8hpvedr3e4ynu7rk?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/eag7xjfx84zy8hpvedr3e4ynu7rk?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/eag7xjfx84zy8hpvedr3e4ynu7rk?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/eag7xjfx84zy8hpvedr3e4ynu7rk?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/eag7xjfx84zy8hpvedr3e4ynu7rk?ixlib=rails-4.3.1"
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "AI Summit",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "d738a241-c163-43b0-a5c6-9697c5b0ff29",
     "slug": "building-connections-for-the-next-generation",
     "title": "Building connections for the next generation",
@@ -7375,11 +7621,11 @@
         "job_title": "Chief Strategy Officer",
         "role": "",
         "avatar_urls": {
-          "tiny": "https://web-summit-engine.imgix.net/6t20yjad3u6xchgoar15oeb8qnbt?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
-          "thumb": "https://web-summit-engine.imgix.net/6t20yjad3u6xchgoar15oeb8qnbt?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
-          "medium": "https://web-summit-engine.imgix.net/6t20yjad3u6xchgoar15oeb8qnbt?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
-          "large": "https://web-summit-engine.imgix.net/6t20yjad3u6xchgoar15oeb8qnbt?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
-          "original": "https://web-summit-engine.imgix.net/6t20yjad3u6xchgoar15oeb8qnbt?ixlib=rails-4.3.1"
+          "tiny": "https://web-summit-engine.imgix.net/4oi9dgv1bkiyn9d8cucxynzxsah7?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/4oi9dgv1bkiyn9d8cucxynzxsah7?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/4oi9dgv1bkiyn9d8cucxynzxsah7?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/4oi9dgv1bkiyn9d8cucxynzxsah7?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/4oi9dgv1bkiyn9d8cucxynzxsah7?ixlib=rails-4.3.1"
         }
       }
     ],
@@ -7546,11 +7792,11 @@
         "job_title": "Co-Founder",
         "role": "",
         "avatar_urls": {
-          "tiny": "https://web-summit-engine.imgix.net/08w5eodtaui17jrrukavdou4068g?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
-          "thumb": "https://web-summit-engine.imgix.net/08w5eodtaui17jrrukavdou4068g?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
-          "medium": "https://web-summit-engine.imgix.net/08w5eodtaui17jrrukavdou4068g?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
-          "large": "https://web-summit-engine.imgix.net/08w5eodtaui17jrrukavdou4068g?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
-          "original": "https://web-summit-engine.imgix.net/08w5eodtaui17jrrukavdou4068g?ixlib=rails-4.3.1"
+          "tiny": "https://web-summit-engine.imgix.net/6rkh0wol45ld7mkoc6u01kmkk5pm?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/6rkh0wol45ld7mkoc6u01kmkk5pm?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/6rkh0wol45ld7mkoc6u01kmkk5pm?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/6rkh0wol45ld7mkoc6u01kmkk5pm?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/6rkh0wol45ld7mkoc6u01kmkk5pm?ixlib=rails-4.3.1"
         }
       },
       {
@@ -7654,12 +7900,12 @@
   },
   {
     "id": "bfca031e-ffa0-422b-835c-b318f1a24f2b",
-    "slug": "building-global-teams-coffee-real-talk",
-    "title": "🌍 Building global teams: coffee & real talk!",
-    "description": "The future of work is borderless. ☕ Drop by and meet the Multiplier team at stand E167 in Pavilion 1. Coffee and honest talk on hiring, paying, and scaling teams across countries, without entities or the usual headaches. \r\nMeet others building global teams and ask us anything!",
+    "slug": "founders-scaling-teams-across-borders",
+    "title": "Founders Scaling Teams Across Borders",
+    "description": "Grab a drink with founders and operators building teams across borders. Swap notes on hiring in new countries, paying global teams, and staying compliant without local entities. Plus, enter to win a €500 flight voucher!",
     "date": "November 10",
     "starts_at": "2026-11-10T15:30:00Z",
-    "ends_at": "2026-11-10T17:30:00Z",
+    "ends_at": "2026-11-10T16:30:00Z",
     "duration": "",
     "location": {
       "id": "7ccf3907-d2d1-4936-b253-236031c76ce0",
@@ -8473,6 +8719,80 @@
     "livevoice_url": null
   },
   {
+    "id": "2b26c96d-6906-453e-a7f8-8db65bc29460",
+    "slug": "how-to-build-and-launch-your-tech-enabled-startup-in-12-weeks",
+    "title": "How to Build and Launch Your Tech-Enabled Startup in 12 Weeks",
+    "description": "The SHIFT Journey: From Woman in Tech in 2026 to Tech Founder in 2027 – Hosted by Djassi SHIFThers (Djassi Africa). What if you returned to Web Summit in 2027 as the founder of your own tech-enabled startup? Whether you're working in technology, developing a business idea, or simply wondering whether building a startup could be your next chapter, this session is for you!",
+    "date": "November 10",
+    "starts_at": "2026-11-10T16:00:00Z",
+    "ends_at": "2026-11-10T16:30:00Z",
+    "duration": "",
+    "location": {
+      "id": "57e96c02-48c2-4216-8c81-8d586eeadc3b",
+      "name": "Women in Tech Lounge",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "a42de3c8-9813-499b-8b25-cf27ed3fdcb2",
+        "name": "Jessica Carvalho",
+        "company_name": "SimplifiedFlows",
+        "job_title": "Founder",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/47g5zvacv2nxyz67sf8ilgbb8p6w?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/47g5zvacv2nxyz67sf8ilgbb8p6w?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/47g5zvacv2nxyz67sf8ilgbb8p6w?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/47g5zvacv2nxyz67sf8ilgbb8p6w?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/47g5zvacv2nxyz67sf8ilgbb8p6w?ixlib=rails-4.3.1"
+        }
+      },
+      {
+        "id": "",
+        "attendance_id": "88f7e71b-e6e7-435b-a722-fdd8bba02a9e",
+        "name": "Rute Brito",
+        "company_name": "Qwadernu",
+        "job_title": "Founder",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/r544b46y7pb291lbgkdb90usq1m2?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/r544b46y7pb291lbgkdb90usq1m2?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/r544b46y7pb291lbgkdb90usq1m2?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/r544b46y7pb291lbgkdb90usq1m2?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/r544b46y7pb291lbgkdb90usq1m2?ixlib=rails-4.3.1"
+        }
+      },
+      {
+        "id": "",
+        "attendance_id": "261fcab7-0bc8-4aba-aed2-88b4cc1774bd",
+        "name": "Jessica Pereira Said",
+        "company_name": "Gossi",
+        "job_title": "Founder",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/bwfvoza6yma5e5dubi21j262h08h?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/bwfvoza6yma5e5dubi21j262h08h?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/bwfvoza6yma5e5dubi21j262h08h?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/bwfvoza6yma5e5dubi21j262h08h?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/bwfvoza6yma5e5dubi21j262h08h?ixlib=rails-4.3.1"
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [
+      "en"
+    ],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "23a38f4b-e2d3-49b0-a883-801bca8725e6",
     "slug": "coos-meetup",
     "title": "🌐 COOs meetup",
@@ -8516,7 +8836,7 @@
     "conferenceSlug": "lis26",
     "schedule_track": {
       "id": "",
-      "name": "",
+      "name": "Meetup",
       "description": "",
       "custom_order": 0
     },
@@ -8581,21 +8901,6 @@
       "venue": ""
     },
     "timeslot_participations": [
-      {
-        "id": "",
-        "attendance_id": "7001f652-d0f9-4dad-a74a-2fd49cda0da5",
-        "name": "Matt Pazaras",
-        "company_name": "Milwaukee Bucks",
-        "job_title": "Chief Business Development & Strategy Officer",
-        "role": "",
-        "avatar_urls": {
-          "tiny": "https://web-summit-engine.imgix.net/jgyw7dxpirt8wx33862il93ettgu?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
-          "thumb": "https://web-summit-engine.imgix.net/jgyw7dxpirt8wx33862il93ettgu?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
-          "medium": "https://web-summit-engine.imgix.net/jgyw7dxpirt8wx33862il93ettgu?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
-          "large": "https://web-summit-engine.imgix.net/jgyw7dxpirt8wx33862il93ettgu?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
-          "original": "https://web-summit-engine.imgix.net/jgyw7dxpirt8wx33862il93ettgu?ixlib=rails-4.3.1"
-        }
-      },
       {
         "id": "",
         "attendance_id": "01c5e7bc-df0f-4816-85da-0e00f1f2f46c",
@@ -8849,9 +9154,9 @@
   },
   {
     "id": "119f0bb6-c4f6-465f-8239-4d7becdc5d20",
-    "slug": "athletes-performance-analytics-meetup",
-    "title": "🏅 Athletes & performance analytics meetup",
-    "description": "Calling all athletes and performance analysts at Web Summit: your people are here! 🙌🏼.Exchange insights, discuss challenges, and expand your network. Join us!",
+    "slug": "athletes-meetup",
+    "title": "🏅 Athletes meetup",
+    "description": "Calling all athletes at Web Summit, current and former 🏅! Meet fellow athletes turning their discipline into startups, investments and new careers, and swap notes on life beyond the game. See you there!",
     "date": "November 10",
     "starts_at": "2026-11-10T16:30:00Z",
     "ends_at": "2026-11-10T16:55:00Z",
@@ -9375,6 +9680,32 @@
     "livevoice_url": null
   },
   {
+    "id": "74f3e2f0-359a-466c-8f8c-a13d89dbf41a",
+    "slug": "speed-networking",
+    "title": "⚡️ Speed Networking",
+    "description": "Join us for high-energy Speed Networking sessions crafted to help maximise meaningful connections, fast ⚡️\r\nEvery single night there are 6 dynamic sessions. No sign-ups or advance booking required! Just show up 10 minutes before any slot listed below!\r\n18:00 – 18:30\r\n18:40 – 19:10\r\n19:20 – 19:50\r\n20:00 – 20:30\r\n20:40 – 21:10\r\n21:20 – 21:50\r\nSeats fill up fast on a first-come, first-served basis. See you there!",
+    "date": "November 10",
+    "starts_at": "2026-11-10T18:00:00Z",
+    "ends_at": "2026-11-10T22:00:00Z",
+    "duration": "",
+    "location": {
+      "id": "be2fc9f6-5df7-4136-a603-68c6320a6865",
+      "name": "Speed Networking",
+      "venue": ""
+    },
+    "timeslot_participations": [],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Night Summit",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "6969b4c2-5458-4e7b-b1ba-22f646afcda9",
     "slug": "mini-golf-engineers-meetup",
     "title": "⛳ Mini Golf: Engineers meetup",
@@ -9386,58 +9717,6 @@
     "location": {
       "id": "6a1f4416-bda6-4f74-9118-3501884b421e",
       "name": "Pink Street in Pavilion 5",
-      "venue": ""
-    },
-    "timeslot_participations": [],
-    "conferenceSlug": "lis26",
-    "schedule_track": {
-      "id": "",
-      "name": "Night Summit",
-      "description": "",
-      "custom_order": 0
-    },
-    "languages": [],
-    "translations": {},
-    "livevoice_url": null
-  },
-  {
-    "id": "55723dd2-c81a-4f94-a6da-758df2c01f8e",
-    "slug": "speed-networking-opening-mixer",
-    "title": "⚡️ Speed Networking: Opening mixer",
-    "description": "Kick off your Night Summit experience with fast-paced, high-impact conversations! Designed to break the ice and get key connections flowing early, this high-energy session helps you expand your network, exchange ideas, and meet dozens of fellow attendees in minutes. Don't miss out on starting the event strong!",
-    "date": "November 10",
-    "starts_at": "2026-11-10T18:00:00Z",
-    "ends_at": "2026-11-10T18:30:00Z",
-    "duration": "",
-    "location": {
-      "id": "be2fc9f6-5df7-4136-a603-68c6320a6865",
-      "name": "Speed Networking",
-      "venue": ""
-    },
-    "timeslot_participations": [],
-    "conferenceSlug": "lis26",
-    "schedule_track": {
-      "id": "",
-      "name": "Night Summit",
-      "description": "",
-      "custom_order": 0
-    },
-    "languages": [],
-    "translations": {},
-    "livevoice_url": null
-  },
-  {
-    "id": "80dacd7a-6401-4923-abdb-95eb0f028ba2",
-    "slug": "speed-networking-first-time-founders",
-    "title": "⚡️ Speed Networking: First-time founders",
-    "description": "Building a company from scratch? Connect with fellow pioneers navigating the early-stage startup journey. This fast-paced session offers a dynamic space to exchange insights, swap pitch stories, and form valuable peer connections in minutes. Step up and make your first move count!",
-    "date": "November 10",
-    "starts_at": "2026-11-10T18:40:00Z",
-    "ends_at": "2026-11-10T19:10:00Z",
-    "duration": "",
-    "location": {
-      "id": "be2fc9f6-5df7-4136-a603-68c6320a6865",
-      "name": "Speed Networking",
       "venue": ""
     },
     "timeslot_participations": [],
@@ -9505,32 +9784,6 @@
     "livevoice_url": null
   },
   {
-    "id": "74f3e2f0-359a-466c-8f8c-a13d89dbf41a",
-    "slug": "speed-networking-women-in-tech",
-    "title": "⚡️ Speed Networking: Women in tech",
-    "description": "Connect with fellow women leaders, creators and innovators shaping our future. This high-energy session offers a supportive, fast-paced environment to build powerful professional connections, share opportunities and spark inspiring conversations in minutes. Join us and expand your circle!",
-    "date": "November 10",
-    "starts_at": "2026-11-10T19:20:00Z",
-    "ends_at": "2026-11-10T19:50:00Z",
-    "duration": "",
-    "location": {
-      "id": "be2fc9f6-5df7-4136-a603-68c6320a6865",
-      "name": "Speed Networking",
-      "venue": ""
-    },
-    "timeslot_participations": [],
-    "conferenceSlug": "lis26",
-    "schedule_track": {
-      "id": "",
-      "name": "Night Summit",
-      "description": "",
-      "custom_order": 0
-    },
-    "languages": [],
-    "translations": {},
-    "livevoice_url": null
-  },
-  {
     "id": "c2d729dd-d2ac-403c-b4f4-fce6a083bb75",
     "slug": "giant-foosball-game-england-vs-germany",
     "title": "⚽️ Giant foosball game: England vs. Germany",
@@ -9557,32 +9810,6 @@
     "livevoice_url": null
   },
   {
-    "id": "50c87516-7c38-4e4d-aedc-24fce2a6bd62",
-    "slug": "speed-networking-creative-entrepreneurs",
-    "title": "⚡️ Speed Networking: Creative entrepreneurs",
-    "description": "Calling all designers, storytellers, brand builders and visionary creators! Bring your big ideas to this fast-paced networking session designed to connect creative minds. Exchange ideas, discover potential collaborators and build meaningful professional relationships in minutes. See you there!",
-    "date": "November 10",
-    "starts_at": "2026-11-10T20:00:00Z",
-    "ends_at": "2026-11-10T20:30:00Z",
-    "duration": "",
-    "location": {
-      "id": "be2fc9f6-5df7-4136-a603-68c6320a6865",
-      "name": "Speed Networking",
-      "venue": ""
-    },
-    "timeslot_participations": [],
-    "conferenceSlug": "lis26",
-    "schedule_track": {
-      "id": "",
-      "name": "Night Summit",
-      "description": "",
-      "custom_order": 0
-    },
-    "languages": [],
-    "translations": {},
-    "livevoice_url": null
-  },
-  {
     "id": "30f06121-818f-4e61-b44a-2e01f5e0d67f",
     "slug": "arcade-lovers-developers-meetup",
     "title": "🕹️ Arcade Lovers: Developers meetup",
@@ -9594,32 +9821,6 @@
     "location": {
       "id": "6af199b5-6ef8-474a-af0f-c693f0b18f40",
       "name": "Pavilion 5",
-      "venue": ""
-    },
-    "timeslot_participations": [],
-    "conferenceSlug": "lis26",
-    "schedule_track": {
-      "id": "",
-      "name": "Night Summit",
-      "description": "",
-      "custom_order": 0
-    },
-    "languages": [],
-    "translations": {},
-    "livevoice_url": null
-  },
-  {
-    "id": "7ecccf00-3395-4d61-8a3d-0160216b6bab",
-    "slug": "speed-networking-serial-entrepreneurs-chats",
-    "title": "⚡️ Speed Networking: Serial entrepreneurs chats",
-    "description": "Seasoned builders and multi-venture founders: step into the fast lane! This high-energy networking session is tailored for experienced entrepreneurs looking to exchange hard-won insights, discuss new ventures and build high-level connections in rapid time. Join for high-value chats!",
-    "date": "November 10",
-    "starts_at": "2026-11-10T20:40:00Z",
-    "ends_at": "2026-11-10T21:10:00Z",
-    "duration": "",
-    "location": {
-      "id": "be2fc9f6-5df7-4136-a603-68c6320a6865",
-      "name": "Speed Networking",
       "venue": ""
     },
     "timeslot_participations": [],
@@ -9672,32 +9873,6 @@
     "location": {
       "id": "684df451-df26-4c1e-863e-e28a138e24f5",
       "name": "Social Club",
-      "venue": ""
-    },
-    "timeslot_participations": [],
-    "conferenceSlug": "lis26",
-    "schedule_track": {
-      "id": "",
-      "name": "Night Summit",
-      "description": "",
-      "custom_order": 0
-    },
-    "languages": [],
-    "translations": {},
-    "livevoice_url": null
-  },
-  {
-    "id": "01071353-03cb-4113-aa25-cc6299f46052",
-    "slug": "speed-networking-side-project-club",
-    "title": "⚡️ Speed Networking: Side project club",
-    "description": "Connect with fellow builders, weekend hackers and side-hustlers! This fast-paced session offers a fun, interactive space to showcase what you're building, share feedback and find potential co-builders in minutes. Bring your passion project to life!",
-    "date": "November 10",
-    "starts_at": "2026-11-10T21:20:00Z",
-    "ends_at": "2026-11-10T21:50:00Z",
-    "duration": "",
-    "location": {
-      "id": "be2fc9f6-5df7-4136-a603-68c6320a6865",
-      "name": "Speed Networking",
       "venue": ""
     },
     "timeslot_participations": [],
@@ -10116,6 +10291,32 @@
     "livevoice_url": null
   },
   {
+    "id": "fc0a1862-1b24-465d-9f75-4776b0ac16c2",
+    "slug": "talk-to-me-conversational-ai-from-click-to-store-hosted-by-cinco",
+    "title": "Talk to Me. Conversational AI, from click to store [Hosted by Cinco]",
+    "description": "Conversational AI is changing how brands market, sell and train. See how it captures first-party insight, transforms the shopper experience and turns staff training into a two-way conversation. Please be aware that attendance is first-come, first-served.",
+    "date": "November 11",
+    "starts_at": "2026-11-11T10:30:00Z",
+    "ends_at": "2026-11-11T11:15:00Z",
+    "duration": "",
+    "location": {
+      "id": "e573d92d-aea6-4ae5-8705-70e42393c342",
+      "name": "Masterclass 4",
+      "venue": ""
+    },
+    "timeslot_participations": [],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Masterclasses",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "e4e5b11a-3c13-4557-a132-9a3dbb452e9d",
     "slug": "scaling-the-ocean-cleanup-from-data-to-impact-hosted-by-the-ocean-cleanup",
     "title": "Scaling the ocean cleanup: From data to impact [Hosted by The Ocean Cleanup]",
@@ -10187,21 +10388,6 @@
       "venue": ""
     },
     "timeslot_participations": [
-      {
-        "id": "",
-        "attendance_id": "b5f530b4-52a5-4487-ac6c-36b15dfc2b4b",
-        "name": "Jeff Johnson",
-        "company_name": "B Capital",
-        "job_title": "General Partner & Global Head of Energy",
-        "role": "",
-        "avatar_urls": {
-          "tiny": "https://web-summit-engine.imgix.net/3pd9adfg6vc6egosc7308j15dt1o?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
-          "thumb": "https://web-summit-engine.imgix.net/3pd9adfg6vc6egosc7308j15dt1o?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
-          "medium": "https://web-summit-engine.imgix.net/3pd9adfg6vc6egosc7308j15dt1o?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
-          "large": "https://web-summit-engine.imgix.net/3pd9adfg6vc6egosc7308j15dt1o?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
-          "original": "https://web-summit-engine.imgix.net/3pd9adfg6vc6egosc7308j15dt1o?ixlib=rails-4.3.1"
-        }
-      },
       {
         "id": "",
         "attendance_id": "b0323ddf-b648-4802-ac79-154d3b816fc2",
@@ -10366,11 +10552,11 @@
         "job_title": "President",
         "role": "",
         "avatar_urls": {
-          "tiny": null,
-          "thumb": null,
-          "medium": null,
-          "large": null,
-          "original": null
+          "tiny": "https://web-summit-engine.imgix.net/ze0bpqui12y3kcc2ew174f68yq7z?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/ze0bpqui12y3kcc2ew174f68yq7z?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/ze0bpqui12y3kcc2ew174f68yq7z?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/ze0bpqui12y3kcc2ew174f68yq7z?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/ze0bpqui12y3kcc2ew174f68yq7z?ixlib=rails-4.3.1"
         }
       },
       {
@@ -10830,7 +11016,7 @@
     "id": "f52414d4-7761-45ac-800c-b63f03e7f2fb",
     "slug": "content-creators-meetup",
     "title": "📸 Content creators meetup",
-    "description": "Calling all content creators at Web Summit: your people are here! 🙌🏼. Exchange insights, discuss challenges, and expand your network. Join us!",
+    "description": "Calling all content creators at Web Summit 📸! Meet creators from every platform, swap notes on brand deals and growing your audience, and find your next collab. See you there!",
     "date": "November 11",
     "starts_at": "2026-11-11T11:00:00Z",
     "ends_at": "2026-11-11T11:55:00Z",
@@ -10882,7 +11068,7 @@
     "id": "e89ed8f4-4141-465e-b3eb-43a4f06d6ccf",
     "slug": "seed-series-a-founders-meetup",
     "title": "🦄 Seed & Series A founders meetup",
-    "description": "Calling all Seed and Series A founders at Web Summit: your people are here! 🙌🏼.Exchange insights, discuss challenges, and expand your network. Join us!",
+    "description": "Raised your seed or Series A 🦄? Meet founders at the same stage and swap notes on hitting milestones, building the team and getting ready for the next round. See you there!",
     "date": "November 11",
     "starts_at": "2026-11-11T11:00:00Z",
     "ends_at": "2026-11-11T11:55:00Z",
@@ -10893,6 +11079,90 @@
       "venue": ""
     },
     "timeslot_participations": [],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Meetup",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
+    "id": "d84673ad-b5d2-4c03-8d2f-d24f95254a39",
+    "slug": "how-ai-makes-true-1-1-personalization-possible-at-scale-hosted-by-optimizely",
+    "title": "How AI makes true 1:1 personalization possible at scale [Hosted by Optimizely]",
+    "description": "Personalization has always been out of reach, held back by fragmented data, content bottlenecks, and rules-based approaches.. Agentic AI can fix that, bringing data, content and experiences into 1 system. Please be aware that attendance is first-come, first-served.",
+    "date": "November 11",
+    "starts_at": "2026-11-11T11:00:00Z",
+    "ends_at": "2026-11-11T11:45:00Z",
+    "duration": "",
+    "location": {
+      "id": "81884352-4ed3-4bb0-b44b-ca52a6b8bf51",
+      "name": "Masterclass 2",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "4c829ba7-9a60-40d2-8a38-b7494a421af8",
+        "name": "Sama Asali",
+        "company_name": "Optimizely",
+        "job_title": "Lead Strategy and Value Consultant",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/kz7elr3up04kpeesddqqgwztqyp4?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/kz7elr3up04kpeesddqqgwztqyp4?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/kz7elr3up04kpeesddqqgwztqyp4?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/kz7elr3up04kpeesddqqgwztqyp4?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/kz7elr3up04kpeesddqqgwztqyp4?ixlib=rails-4.3.1"
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Masterclasses",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
+    "id": "d0d69fd6-4ee9-440c-a4fb-bf2e6ef90675",
+    "slug": "beyond-the-stage-on-calm-technology-with-amber-case",
+    "title": "📣 Beyond the stage on Calm Technology® with Amber Case",
+    "description": "Join Amber Case, Founder of the Calm Tech Institute, in a beyond the stage meetup on calm technology. Product builders, designers and founders: get practical ways to design tools, AI ones included, that protect people’s focus instead of fighting for it, picking up where her talk Get on bored leaves off 🧠 See you there!",
+    "date": "November 11",
+    "starts_at": "2026-11-11T11:00:00Z",
+    "ends_at": "2026-11-11T11:25:00Z",
+    "duration": "",
+    "location": {
+      "id": "f27b2b4f-bd9d-46f8-af42-8370df6f6982",
+      "name": "Meetup 2",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "f332ce3c-aa3c-437c-a09c-ee25b5447bf3",
+        "name": "Amber Case",
+        "company_name": "Calm Tech Inst.",
+        "job_title": "Founder",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/auklm4jna658dxpm07su05hjgi5d?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/auklm4jna658dxpm07su05hjgi5d?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/auklm4jna658dxpm07su05hjgi5d?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/auklm4jna658dxpm07su05hjgi5d?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/auklm4jna658dxpm07su05hjgi5d?ixlib=rails-4.3.1"
+        }
+      }
+    ],
     "conferenceSlug": "lis26",
     "schedule_track": {
       "id": "",
@@ -10965,6 +11235,48 @@
     "schedule_track": {
       "id": "",
       "name": "Meetup",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
+    "id": "a9f70693-d5e8-49e4-b9a0-342b4b907b43",
+    "slug": "how-360-footprint-redefines-ooh-media-for-tomorrow-s-brands-hosted-by-jc-decaux",
+    "title": "How 360 footprint redefines OOH media for tomorrow’s brands [Hosted by JC Decaux]",
+    "description": "Discover how JCDecaux’s 360 Footprint uses clean tech and data to measure campaign impact, helping brands scale high-performing OOH media sustainably. The future of adtech is green. Please be aware that attendance is first-come, first-served.",
+    "date": "November 11",
+    "starts_at": "2026-11-11T11:00:00Z",
+    "ends_at": "2026-11-11T11:45:00Z",
+    "duration": "",
+    "location": {
+      "id": "55f9b34a-a788-4dca-8df8-f2187b3fae56",
+      "name": "Masterclass 1",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "76bcc079-e780-4273-a42c-38b0093851fd",
+        "name": "Lenaic Pineau",
+        "company_name": "JCDecaux",
+        "job_title": "Chief Sustainability and Quality Officer ",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/syx1vgy4yhqqox54somd2elhn0gc?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/syx1vgy4yhqqox54somd2elhn0gc?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/syx1vgy4yhqqox54somd2elhn0gc?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/syx1vgy4yhqqox54somd2elhn0gc?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/syx1vgy4yhqqox54somd2elhn0gc?ixlib=rails-4.3.1"
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Masterclasses",
       "description": "",
       "custom_order": 0
     },
@@ -11639,11 +11951,11 @@
         "job_title": "Managing Editor",
         "role": "",
         "avatar_urls": {
-          "tiny": "https://web-summit-engine.imgix.net/crtimwzn9i73yesb64op46durlup?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
-          "thumb": "https://web-summit-engine.imgix.net/crtimwzn9i73yesb64op46durlup?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
-          "medium": "https://web-summit-engine.imgix.net/crtimwzn9i73yesb64op46durlup?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
-          "large": "https://web-summit-engine.imgix.net/crtimwzn9i73yesb64op46durlup?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
-          "original": "https://web-summit-engine.imgix.net/crtimwzn9i73yesb64op46durlup?ixlib=rails-4.3.1"
+          "tiny": "https://web-summit-engine.imgix.net/8vak6mjzeynx8vg6xmyu9dojmm4i?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/8vak6mjzeynx8vg6xmyu9dojmm4i?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/8vak6mjzeynx8vg6xmyu9dojmm4i?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/8vak6mjzeynx8vg6xmyu9dojmm4i?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/8vak6mjzeynx8vg6xmyu9dojmm4i?ixlib=rails-4.3.1"
         }
       },
       {
@@ -11684,11 +11996,11 @@
         "job_title": "Publisher",
         "role": "",
         "avatar_urls": {
-          "tiny": "https://web-summit-engine.imgix.net/87wu2ccip08rnuo0n5ia6t4mns59?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
-          "thumb": "https://web-summit-engine.imgix.net/87wu2ccip08rnuo0n5ia6t4mns59?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
-          "medium": "https://web-summit-engine.imgix.net/87wu2ccip08rnuo0n5ia6t4mns59?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
-          "large": "https://web-summit-engine.imgix.net/87wu2ccip08rnuo0n5ia6t4mns59?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
-          "original": "https://web-summit-engine.imgix.net/87wu2ccip08rnuo0n5ia6t4mns59?ixlib=rails-4.3.1"
+          "tiny": "https://web-summit-engine.imgix.net/qgr0rsp0wnoxmb3htcoiu4ayfxhg?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/qgr0rsp0wnoxmb3htcoiu4ayfxhg?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/qgr0rsp0wnoxmb3htcoiu4ayfxhg?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/qgr0rsp0wnoxmb3htcoiu4ayfxhg?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/qgr0rsp0wnoxmb3htcoiu4ayfxhg?ixlib=rails-4.3.1"
         }
       }
     ],
@@ -12137,6 +12449,48 @@
     "livevoice_url": null
   },
   {
+    "id": "2230e1d4-188d-4ab0-9f3d-a418dff6c20b",
+    "slug": "ai-sovereignty-data-control-governance-and-predictable-ai-costs-hosted-by-austriacard-holdings",
+    "title": "AI sovereignty: Data control, governance and predictable AI costs [Hosted by Austriacard Holdings]",
+    "description": "Explore what AI sovereignty means in practice and how organisations can run agentic AI on-premises, including in air-gapped environments. This session will cover data control, governance and approaches to managing AI costs, with GaiaB™ as a practical example. Please be aware that attendance is first-come, first-served.",
+    "date": "November 11",
+    "starts_at": "2026-11-11T11:30:00Z",
+    "ends_at": "2026-11-11T12:15:00Z",
+    "duration": "",
+    "location": {
+      "id": "37210453-3f27-4163-9f34-e4cb6ec59e2a",
+      "name": "Masterclass 3",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "bba37b95-b83c-4e91-bba2-28ef9cc3e6a2",
+        "name": "Christos Rizos",
+        "company_name": "AustriaCard",
+        "job_title": "Group Business Development Director, AI & Digital Solutions",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/t1jhy2xk7ajjguitgzs8j22dbbly?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/t1jhy2xk7ajjguitgzs8j22dbbly?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/t1jhy2xk7ajjguitgzs8j22dbbly?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/t1jhy2xk7ajjguitgzs8j22dbbly?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/t1jhy2xk7ajjguitgzs8j22dbbly?ixlib=rails-4.3.1"
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Masterclasses",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "32b280bb-566d-490f-aa6e-7dbcbcb3c150",
     "slug": "china-s-global-brand-revolution",
     "title": "China’s global brand revolution",
@@ -12456,11 +12810,11 @@
         "job_title": "Founder",
         "role": "",
         "avatar_urls": {
-          "tiny": null,
-          "thumb": null,
-          "medium": null,
-          "large": null,
-          "original": null
+          "tiny": "https://web-summit-engine.imgix.net/ajcqf70rq3l77x9nhhmdlapmw5vg?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/ajcqf70rq3l77x9nhhmdlapmw5vg?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/ajcqf70rq3l77x9nhhmdlapmw5vg?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/ajcqf70rq3l77x9nhhmdlapmw5vg?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/ajcqf70rq3l77x9nhhmdlapmw5vg?ixlib=rails-4.3.1"
         }
       },
       {
@@ -12850,7 +13204,7 @@
     "id": "ce8eaf0c-725d-4e39-9ec7-ded30c36884c",
     "slug": "latin-america-founders-meetup",
     "title": "🦜 Latin America founders meetup",
-    "description": "From São Paulo to Mexico City, Latin America's startup scene is on the rise 🚀! Meet founders from across the region, share what you're building and find partners to grow beyond your home market. See you there!",
+    "description": "From Mexico City to Buenos Aires, Latin America's startup scene is on the rise 🚀! Meet founders from across the region, share what you're building and find partners to grow beyond your home market. See you there!",
     "date": "November 11",
     "starts_at": "2026-11-11T12:00:00Z",
     "ends_at": "2026-11-11T12:55:00Z",
@@ -12875,8 +13229,8 @@
   {
     "id": "c9c4f4a2-ce05-4816-b5d7-4b219f4b94dd",
     "slug": "physical-ai-meetup",
-    "title": "🦾 Physical AI meetup",
-    "description": "AI’s next act won’t stay on a screen 🤖! Meet people giving AI a body, from robots to autonomous systems, and swap notes on what’s actually shipping. See you there!",
+    "title": "🦿 Physical AI meetup",
+    "description": "AI's next act won't stay on a screen 🦿! Meet people putting AI into drones, vehicles, robots and other machines, swap notes on what's actually shipping, then keep the conversation going at the beyond the stage on embodied AI at 2pm in meetup 2. See you there!",
     "date": "November 11",
     "starts_at": "2026-11-11T12:00:00Z",
     "ends_at": "2026-11-11T12:25:00Z",
@@ -12944,7 +13298,7 @@
     "id": "ae2c6e99-2908-44f4-8c12-93f831cd139e",
     "slug": "artists-in-tech-meetup",
     "title": "🎨 Artists in tech meetup",
-    "description": "Calling all artists in tech at Web Summit: your people are here! 🙌🏼.Exchange insights, discuss challenges, and expand your network. Join us!",
+    "description": "Using code, sensors or screens as your canvas? Meet fellow artists working with technology, show what you're making and find collaborators for your next piece 🎨. See you there!",
     "date": "November 11",
     "starts_at": "2026-11-11T12:00:00Z",
     "ends_at": "2026-11-11T12:25:00Z",
@@ -13000,7 +13354,7 @@
     "conferenceSlug": "lis26",
     "schedule_track": {
       "id": "",
-      "name": "",
+      "name": "Meetup",
       "description": "",
       "custom_order": 0
     },
@@ -13764,6 +14118,48 @@
     "livevoice_url": null
   },
   {
+    "id": "f605ad91-f746-4ccd-8f48-244ffd2144cf",
+    "slug": "both-sides-of-the-net",
+    "title": "Both sides of the net",
+    "description": "Jamie Murray has spent more than two decades in professional tennis, reaching world No. 1 in doubles and winning seven Grand Slam titles. Now Tournament Director of the HSBC Championships at Queen’s Club, he sees the sport from both sides: what it takes to compete at the highest level, and what it takes to run a tournament the players have repeatedly voted the best in its category.",
+    "date": "November 11",
+    "starts_at": "2026-11-11T12:30:00Z",
+    "ends_at": "2026-11-11T12:50:00Z",
+    "duration": "",
+    "location": {
+      "id": "5635927d-b7a7-4537-9720-6746e34bbab8",
+      "name": "Stage 3",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "a4a86230-54bb-4e68-ba0d-c24dedc4b4a5",
+        "name": "Jamie Murray",
+        "company_name": "Jamie Murray",
+        "job_title": "Professional Tennis Player",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/64lml2svse5mb1kw7gwq7xah75bt?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/64lml2svse5mb1kw7gwq7xah75bt?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/64lml2svse5mb1kw7gwq7xah75bt?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/64lml2svse5mb1kw7gwq7xah75bt?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/64lml2svse5mb1kw7gwq7xah75bt?ixlib=rails-4.3.1"
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Creative Summit",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "e5e6ad78-1766-42be-bb39-88d3ad1b793c",
     "slug": "speed-vs-control-4-ways-to-build-on-live-data-hosted-by-directus",
     "title": "Speed vs control: 4 ways to build on live data [Hosted by Directus]",
@@ -13794,6 +14190,32 @@
         }
       }
     ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Masterclasses",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
+    "id": "e33115b1-f0d2-4578-b22a-c911e820c5de",
+    "slug": "human-centric-ai-driving-africa-s-tech-boom-hosted-by-tech-connect-africa",
+    "title": "Human-centric AI: Driving Africa's tech boom [Hosted by Tech Connect Africa]",
+    "description": "Discover how human-centric tech is solving capacity bottlenecks and unlocking the global market's biggest edge: its people. The future of AI isn't replacing humans—it's multiplying them. Please be aware that attendance is first-come, first-served.",
+    "date": "November 11",
+    "starts_at": "2026-11-11T12:30:00Z",
+    "ends_at": "2026-11-11T13:15:00Z",
+    "duration": "",
+    "location": {
+      "id": "dd8d74e4-0911-4950-8874-7544cfe64f24",
+      "name": "Masterclass 5",
+      "venue": ""
+    },
+    "timeslot_participations": [],
     "conferenceSlug": "lis26",
     "schedule_track": {
       "id": "",
@@ -14138,7 +14560,7 @@
     "id": "b3b27f3c-5179-4eb0-b8aa-9d97a2e19833",
     "slug": "creatives-in-ai-meetup",
     "title": "✨Creatives in AI meetup",
-    "description": "Calling all creatives in AI at Web Summit: your people are here! 🙌🏼.Exchange insights, discuss challenges, and expand your network. Join us!",
+    "description": "AI is changing how creative work gets made, owned and paid for ✨. Meet designers, writers, filmmakers and agency creatives using AI day to day, and swap notes on tools, rights and keeping your edge. See you there!",
     "date": "November 11",
     "starts_at": "2026-11-11T13:00:00Z",
     "ends_at": "2026-11-11T13:25:00Z",
@@ -14261,7 +14683,7 @@
   {
     "id": "4e8af913-13ee-48a3-a523-cd59c9e7215b",
     "slug": "pre-seed-stage-founders-ceos-meetup",
-    "title": "🚀 Pre-seed stage Founders & CEOs meetup",
+    "title": "🐣 Pre-seed stage Founders & CEOs meetup",
     "description": "Calling all pre-seed stage founders and CEOs at Web Summit: your people are here! 🙌🏼.Exchange insights, discuss challenges, and expand your network. Join us!",
     "date": "November 11",
     "starts_at": "2026-11-11T13:00:00Z",
@@ -14288,7 +14710,7 @@
     "id": "11166922-da1d-44bc-bd2a-63f139687b20",
     "slug": "founders-scaling-businesses-meetup",
     "title": "🪜 Founders scaling businesses meetup",
-    "description": "Calling all founders scaling businesses at Web Summit: your people are here! 🙌🏼.Exchange insights, discuss challenges, and expand your network. Join us!",
+    "description": "Past product-market fit and growing fast 🪜? Meet founders scaling beyond their first 50 hires and into new markets, and swap notes on what breaks and how to fix it. See you there!",
     "date": "November 11",
     "starts_at": "2026-11-11T13:00:00Z",
     "ends_at": "2026-11-11T13:55:00Z",
@@ -14619,6 +15041,32 @@
     "livevoice_url": null
   },
   {
+    "id": "88cffcda-4561-4c3d-9cd6-7fa8a692ffec",
+    "slug": "hiring-your-first-team-meetup",
+    "title": "🤝 Hiring your first team meetup",
+    "description": "Your first ten hires will shape your company for years 🤝. Meet founders building their early teams and swap notes on where to find talent and how to get culture right from day one. See you there!",
+    "date": "November 11",
+    "starts_at": "2026-11-11T13:30:00Z",
+    "ends_at": "2026-11-11T13:55:00Z",
+    "duration": "",
+    "location": {
+      "id": "8d875587-df85-4a47-a3cf-fe6bc124700c",
+      "name": "Meetup 6",
+      "venue": ""
+    },
+    "timeslot_participations": [],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Meetup",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "372040c7-d427-45b8-9a5f-b87e12168b35",
     "slug": "hands-on-collaborative-ai-human-machine-co-creation-hosted-by-cntr",
     "title": "Hands-on collaborative AI: human-machine co-creation [Hosted by CNTR]",
@@ -14773,6 +15221,78 @@
     "livevoice_url": null
   },
   {
+    "id": "8ade87a4-9980-4ba1-9b02-7a5476895b2f",
+    "slug": "where-capital-is-flowing-in-2026-and-why",
+    "title": "Where capital is flowing in 2026, and why",
+    "description": "As extended exit timelines and DPI pressures force a shift in venture capital, institutional LPs, Funds-of-Funds, and VCs are fundamentally changing how they deploy capital. This session brings together key decision-makers across the funding chain to reveal where capital is actually moving. From sovereign mandates and FoF allocations to early-stage funds, discover what LPs expect from GPs today, how FoFs select emerging managers, and what VCs must do to secure backing and deliver real liquidity.",
+    "date": "November 11",
+    "starts_at": "2026-11-11T13:45:00Z",
+    "ends_at": "2026-11-11T14:10:00Z",
+    "duration": "",
+    "location": {
+      "id": "ca314426-f597-44d0-b3cd-f3017a2bbcb4",
+      "name": "Stage 5",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "62bcace8-2c74-4b03-99df-4144fb80bdb6",
+        "name": "Ertan Can",
+        "company_name": "Multiple Capital",
+        "job_title": "Managing Partner",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/fuzmhazjzaok061tmw85ew10j760?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/fuzmhazjzaok061tmw85ew10j760?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/fuzmhazjzaok061tmw85ew10j760?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/fuzmhazjzaok061tmw85ew10j760?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/fuzmhazjzaok061tmw85ew10j760?ixlib=rails-4.3.1"
+        }
+      },
+      {
+        "id": "",
+        "attendance_id": "8141c35b-9364-4297-a392-33efb7301195",
+        "name": "Teresa Fiuza",
+        "company_name": "Banco Português de Fomento",
+        "job_title": "Chief Investment Officer",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/ivitl3wqs37vxg5knniwrn4fxn1r?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/ivitl3wqs37vxg5knniwrn4fxn1r?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/ivitl3wqs37vxg5knniwrn4fxn1r?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/ivitl3wqs37vxg5knniwrn4fxn1r?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/ivitl3wqs37vxg5knniwrn4fxn1r?ixlib=rails-4.3.1"
+        }
+      },
+      {
+        "id": "",
+        "attendance_id": "6381344a-98b9-4d4a-848f-2cb03ffe216c",
+        "name": "Sam Eshrati",
+        "company_name": "Nordic Angels- Plug and Play ",
+        "job_title": "Founding Member-Investor  ",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/xm5j2irqgl8evw047rwth1ty6h1x?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/xm5j2irqgl8evw047rwth1ty6h1x?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/xm5j2irqgl8evw047rwth1ty6h1x?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/xm5j2irqgl8evw047rwth1ty6h1x?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/xm5j2irqgl8evw047rwth1ty6h1x?ixlib=rails-4.3.1"
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Venture Summit",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "18d22fb8-3cf8-4cf0-8794-581ba2ea10c3",
     "slug": "what-10-000-hours-of-challenger-brand-research-reveals-about-the-future-of-growth",
     "title": "What 10, 000 hours of challenger brand research reveals about the future of growth",
@@ -14900,8 +15420,8 @@
   },
   {
     "id": "d497bb0e-b1bf-4568-97ec-f09f39f8ed64",
-    "slug": "redefining-what-is-investable-hosted-by-our-community-partner-mella-supply",
-    "title": "Redefining What Is Investable. Hosted by our Community Partner, Mella Supply",
+    "slug": "redefining-what-is-investable",
+    "title": "Redefining What Is Investable",
     "description": "Join us for a meetup hosted by our community partner, Mella Supply",
     "date": "November 11",
     "starts_at": "2026-11-11T14:00:00Z",
@@ -15165,6 +15685,48 @@
     "livevoice_url": null
   },
   {
+    "id": "5b81c6d9-d4c2-4750-8d73-5d4cc9080cae",
+    "slug": "beyond-the-stage-on-embodied-ai-with-xinhai-sun",
+    "title": "📣 Beyond the stage on embodied AI with Xinhai Sun",
+    "description": "Join Xinhai Sun, Founder & CEO of Synthoid.ai, in a beyond the stage meetup on embodied AI. Robotics founders, investors and builders: hear what it takes to teach robots precise factory work, and why world models are the next big leap for machines in the real world 🤖 See you there!",
+    "date": "November 11",
+    "starts_at": "2026-11-11T14:00:00Z",
+    "ends_at": "2026-11-11T14:25:00Z",
+    "duration": "",
+    "location": {
+      "id": "f27b2b4f-bd9d-46f8-af42-8370df6f6982",
+      "name": "Meetup 2",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "30feda5a-57a7-4784-8461-1ce03c0118b7",
+        "name": "Xinhai Sun",
+        "company_name": "Synthoid AI",
+        "job_title": "Founder & CEO",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/u89pqyb3jnsupu11dynof9eo60lw?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/u89pqyb3jnsupu11dynof9eo60lw?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/u89pqyb3jnsupu11dynof9eo60lw?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/u89pqyb3jnsupu11dynof9eo60lw?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/u89pqyb3jnsupu11dynof9eo60lw?ixlib=rails-4.3.1"
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Meetup",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "4644da70-ed56-40c1-9a94-f3a9acbc2fe7",
     "slug": "albania-meetup",
     "title": "🇦🇱 Albania meetup",
@@ -15194,7 +15756,7 @@
     "id": "3c8ad516-ecdd-4e80-b6db-771c4ed7fd27",
     "slug": "youtubers-meetup",
     "title": "🎥 YouTubers meetup",
-    "description": "Calling all YouTubers at Web Summit: your people are here! 🙌🏼.Exchange insights, discuss challenges, and expand your network. Join us!",
+    "description": "Long-form video is its own game 🎥. Meet fellow YouTubers and swap notes on formats, retention and making the algorithm work for you. See you there!",
     "date": "November 11",
     "starts_at": "2026-11-11T14:00:00Z",
     "ends_at": "2026-11-11T14:25:00Z",
@@ -15938,6 +16500,78 @@
     "livevoice_url": null
   },
   {
+    "id": "a95f9a6f-8226-4111-894c-b4a25b4df959",
+    "slug": "the-fast-and-the-curious",
+    "title": "The fast and the curious",
+    "description": "In an economy driven by technological change, static training modules and annual reskilling programmes are no longer enough. A key determinant of enterprise survival is the speed at which an organisation learns, adapts and converts new knowledge into execution. Bringing together Headway CEO Anton Pavlovsky, and ServiceNow chief learning officer Jayney Howson, this session explores how to build an architecture of continuous adaptation across the workforce. Discover how global leaders combine high-velocity micro-learning, curiosity-driven cultures and enterprise-scale learning platforms to keep teams sharp, adaptable and prepared for constant market evolution.",
+    "date": "November 11",
+    "starts_at": "2026-11-11T14:25:00Z",
+    "ends_at": "2026-11-11T14:45:00Z",
+    "duration": "",
+    "location": {
+      "id": "f42e279b-efba-48af-b96b-906241065ce2",
+      "name": "Stage 4",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "ded81a45-e092-4561-9191-7c6c696d9ee5",
+        "name": "Anton Pavlovsky",
+        "company_name": "EdTech Startup Headway",
+        "job_title": "CEO",
+        "role": "",
+        "avatar_urls": {
+          "tiny": null,
+          "thumb": null,
+          "medium": null,
+          "large": null,
+          "original": null
+        }
+      },
+      {
+        "id": "",
+        "attendance_id": "6dcbc079-4839-47cd-9c77-258e7c376e43",
+        "name": "Jayney Howson",
+        "company_name": "ServiceNow",
+        "job_title": "Chief Learning Officer",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/vhji4ny5fgw8rgwqrd1jt2pokg16?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/vhji4ny5fgw8rgwqrd1jt2pokg16?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/vhji4ny5fgw8rgwqrd1jt2pokg16?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/vhji4ny5fgw8rgwqrd1jt2pokg16?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/vhji4ny5fgw8rgwqrd1jt2pokg16?ixlib=rails-4.3.1"
+        }
+      },
+      {
+        "id": "",
+        "attendance_id": "8bb586a0-6974-4db8-99a2-e70359bf13c9",
+        "name": "Lu Rodrigues",
+        "company_name": "Forbes Brasil",
+        "job_title": "columnist",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/m673r6saolqs718rw7xqyqzo5gkc?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/m673r6saolqs718rw7xqyqzo5gkc?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/m673r6saolqs718rw7xqyqzo5gkc?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/m673r6saolqs718rw7xqyqzo5gkc?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/m673r6saolqs718rw7xqyqzo5gkc?ixlib=rails-4.3.1"
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Future of Work Summit",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "91f36a60-b436-4c49-98e4-488c4d51a8d8",
     "slug": "designing-for-connection-online-and-off",
     "title": "Designing for connection, online and off",
@@ -16096,6 +16730,48 @@
     "schedule_track": {
       "id": "",
       "name": "Meetup",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
+    "id": "a3420fe3-56e2-440a-856f-682822271d03",
+    "slug": "who-speaks-for-the-players",
+    "title": "Who speaks for the players?",
+    "description": "Football is bigger and more profitable than ever, but as competitions expand and the calendar fills up, who is looking out for the players? Maheta Molango, Chief Executive of the Professional Footballers’ Association, examines the tension between football’s commercial ambitions and player welfare, and who should have a say in the game’s future. Can the sport keep growing without losing sight of the players who make it?",
+    "date": "November 11",
+    "starts_at": "2026-11-11T14:35:00Z",
+    "ends_at": "2026-11-11T14:55:00Z",
+    "duration": "",
+    "location": {
+      "id": "5635927d-b7a7-4537-9720-6746e34bbab8",
+      "name": "Stage 3",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "4e68cf62-06ec-4cb4-a923-e1f3892fc069",
+        "name": "Maheta Molango",
+        "company_name": "Professional Footballers' Association (PFA)",
+        "job_title": "CEO",
+        "role": "",
+        "avatar_urls": {
+          "tiny": null,
+          "thumb": null,
+          "medium": null,
+          "large": null,
+          "original": null
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Creative Summit",
       "description": "",
       "custom_order": 0
     },
@@ -16935,6 +17611,32 @@
     "livevoice_url": null
   },
   {
+    "id": "2a8245e5-a53d-4bfe-ada8-6b4651e2803c",
+    "slug": "startups-entering-north-america-meetup",
+    "title": "🌎 Startups entering North America meetup",
+    "description": "Calling all startups looking to expand into North America. Meet founders taking the same step, share what you’ve learned about entering new markets and find out which first move worked for others. See you there.",
+    "date": "November 11",
+    "starts_at": "2026-11-11T15:00:00Z",
+    "ends_at": "2026-11-11T15:55:00Z",
+    "duration": "",
+    "location": {
+      "id": "9fb135a5-3b1d-45b7-83e5-91185198ba16",
+      "name": "Meetup 5",
+      "venue": ""
+    },
+    "timeslot_participations": [],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Meetup",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "260a7965-987d-4fb1-868b-5d2d026e06d7",
     "slug": "writers-publishers-meetup",
     "title": "✍️ Writers & publishers meetup",
@@ -17565,32 +18267,6 @@
     "schedule_track": {
       "id": "",
       "name": "Future of Work Summit",
-      "description": "",
-      "custom_order": 0
-    },
-    "languages": [],
-    "translations": {},
-    "livevoice_url": null
-  },
-  {
-    "id": "e2d5f570-ce31-4a26-8ef1-695b6ac53b8e",
-    "slug": "student-founded-startups-meetup",
-    "title": "🎓 Student-founded startups meetup",
-    "description": "Building a startup between lectures? Investors want proof, not promises, so let’s get you ready 🚀! Meet fellow student founders, share what’s working, and find your co-founder. See you there!",
-    "date": "November 11",
-    "starts_at": "2026-11-11T15:30:00Z",
-    "ends_at": "2026-11-11T15:55:00Z",
-    "duration": "",
-    "location": {
-      "id": "f27b2b4f-bd9d-46f8-af42-8370df6f6982",
-      "name": "Meetup 2",
-      "venue": ""
-    },
-    "timeslot_participations": [],
-    "conferenceSlug": "lis26",
-    "schedule_track": {
-      "id": "",
-      "name": "Meetup",
       "description": "",
       "custom_order": 0
     },
@@ -18247,6 +18923,32 @@
     "livevoice_url": null
   },
   {
+    "id": "e2d5f570-ce31-4a26-8ef1-695b6ac53b8e",
+    "slug": "student-founded-startups-meetup",
+    "title": "💡 Student-founded startups meetup",
+    "description": "Building a startup between lectures? Investors want proof, not promises, so let’s get you ready 🚀! Meet fellow student founders, share what’s working, and find your co-founder. See you there!",
+    "date": "November 11",
+    "starts_at": "2026-11-11T16:00:00Z",
+    "ends_at": "2026-11-11T16:25:00Z",
+    "duration": "",
+    "location": {
+      "id": "8d875587-df85-4a47-a3cf-fe6bc124700c",
+      "name": "Meetup 6",
+      "venue": ""
+    },
+    "timeslot_participations": [],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Meetup",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "d24b4a2d-1afd-4fa3-bec0-76b88345f553",
     "slug": "china-founders-x-global-investors-tech-industry-meetup",
     "title": "China founders × global investors & tech industry meetup",
@@ -18275,7 +18977,7 @@
   {
     "id": "bd3b6f30-eefc-44ee-a421-50aaa3db3347",
     "slug": "ux-ui-designers-meetup",
-    "title": "🎨 UX/UI designers meetup",
+    "title": "📐 UX/UI designers meetup",
     "description": "Calling all UX/UI designers at Web Summit: your people are here! 🙌🏼.Exchange insights, discuss challenges, and expand your network. Join us!",
     "date": "November 11",
     "starts_at": "2026-11-11T16:00:00Z",
@@ -18327,8 +19029,8 @@
   {
     "id": "3c710bd7-d94f-4e20-9033-210a045b15dc",
     "slug": "ai-in-healthcare-meetup",
-    "title": "🩺 AI in Healthcare meetup",
-    "description": "Can we automate medicine without losing its human side 🤝? Meet the clinicians, founders and investors building AI for real care, and swap notes on what actually works. See you",
+    "title": "🏥 AI in Healthcare meetup",
+    "description": "Can we automate medicine without losing its human side 🤝? Meet the clinicians, founders and investors building AI for real care, and swap notes on what actually works. See you there!",
     "date": "November 11",
     "starts_at": "2026-11-11T16:00:00Z",
     "ends_at": "2026-11-11T16:55:00Z",
@@ -18939,7 +19641,7 @@
   {
     "id": "5593c05b-6849-4083-99fa-a90571a9ad2a",
     "slug": "data-analysts-meetup",
-    "title": "🔬 Data analysts meetup",
+    "title": "📊 Data analysts meetup",
     "description": "Calling all data analysts at Web Summit: your people are here! 🙌🏼.Exchange insights, discuss challenges, and expand your network. Join us!",
     "date": "November 11",
     "starts_at": "2026-11-11T16:30:00Z",
@@ -19068,11 +19770,11 @@
         "job_title": "BAFTA-winning writer & performer",
         "role": "",
         "avatar_urls": {
-          "tiny": "https://web-summit-engine.imgix.net/ny85zmsup0i4u3nywslht2th6a0g?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
-          "thumb": "https://web-summit-engine.imgix.net/ny85zmsup0i4u3nywslht2th6a0g?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
-          "medium": "https://web-summit-engine.imgix.net/ny85zmsup0i4u3nywslht2th6a0g?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
-          "large": "https://web-summit-engine.imgix.net/ny85zmsup0i4u3nywslht2th6a0g?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
-          "original": "https://web-summit-engine.imgix.net/ny85zmsup0i4u3nywslht2th6a0g?ixlib=rails-4.3.1"
+          "tiny": "https://web-summit-engine.imgix.net/j0bvimr3378jhhk32pcb2xcry06d?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/j0bvimr3378jhhk32pcb2xcry06d?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/j0bvimr3378jhhk32pcb2xcry06d?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/j0bvimr3378jhhk32pcb2xcry06d?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/j0bvimr3378jhhk32pcb2xcry06d?ixlib=rails-4.3.1"
         }
       },
       {
@@ -19185,13 +19887,13 @@
     "livevoice_url": null
   },
   {
-    "id": "51dc0ca2-1f8d-46c9-a0f7-82fd62d5ddaa",
-    "slug": "speed-networking-opening-mixer",
-    "title": "⚡️ Speed Networking: Opening mixer",
-    "description": "Kick off your Night Summit experience with fast-paced, high-impact conversations! Designed to break the ice and get key connections flowing early, this high-energy session helps you expand your network, exchange ideas, and meet dozens of fellow attendees in minutes. Don't miss out on starting the event strong!",
+    "id": "55723dd2-c81a-4f94-a6da-758df2c01f8e",
+    "slug": "speed-networking",
+    "title": "⚡️ Speed Networking",
+    "description": "Join us for high-energy Speed Networking sessions crafted to help maximise meaningful connections, fast ⚡️\r\nEvery single night there are 6 dynamic sessions. No sign-ups or advance booking required! Just show up 10 minutes before any slot listed below!\r\n18:00 – 18:30\r\n18:40 – 19:10\r\n19:20 – 19:50\r\n20:00 – 20:30\r\n20:40 – 21:10\r\n21:20 – 21:50\r\nSeats fill up fast on a first-come, first-served basis. See you there!",
     "date": "November 11",
     "starts_at": "2026-11-11T18:00:00Z",
-    "ends_at": "2026-11-11T18:30:00Z",
+    "ends_at": "2026-11-11T22:00:00Z",
     "duration": "",
     "location": {
       "id": "be2fc9f6-5df7-4136-a603-68c6320a6865",
@@ -19263,32 +19965,6 @@
     "livevoice_url": null
   },
   {
-    "id": "25b21d4f-223f-4acb-b71f-07354d84b064",
-    "slug": "speed-networking-ventures-builders-connect",
-    "title": "⚡️ Speed Networking: Ventures & builders connect",
-    "description": "Great ideas need the right capital. This high-energy session offers a dynamic space to connect founders with the investors backing the next wave of innovation. See you there!",
-    "date": "November 11",
-    "starts_at": "2026-11-11T18:40:00Z",
-    "ends_at": "2026-11-11T19:10:00Z",
-    "duration": "",
-    "location": {
-      "id": "be2fc9f6-5df7-4136-a603-68c6320a6865",
-      "name": "Speed Networking",
-      "venue": ""
-    },
-    "timeslot_participations": [],
-    "conferenceSlug": "lis26",
-    "schedule_track": {
-      "id": "",
-      "name": "Night Summit",
-      "description": "",
-      "custom_order": 0
-    },
-    "languages": [],
-    "translations": {},
-    "livevoice_url": null
-  },
-  {
     "id": "a45731cb-903b-4765-afb8-cf865a741694",
     "slug": "giant-foosball-game-belgium-vs-ireland",
     "title": "⚽️ Giant foosball game: Belgium vs. Ireland",
@@ -19326,32 +20002,6 @@
     "location": {
       "id": "6af199b5-6ef8-474a-af0f-c693f0b18f40",
       "name": "Pavilion 5",
-      "venue": ""
-    },
-    "timeslot_participations": [],
-    "conferenceSlug": "lis26",
-    "schedule_track": {
-      "id": "",
-      "name": "Night Summit",
-      "description": "",
-      "custom_order": 0
-    },
-    "languages": [],
-    "translations": {},
-    "livevoice_url": null
-  },
-  {
-    "id": "8c4bfbcc-0f09-4f49-ae22-6146e2b7c555",
-    "slug": "speed-networking-community-builders",
-    "title": "⚡️ Speed Networking: Community builders",
-    "description": "Community managers, movement creators, and ecosystem leaders: this one is for you! Connect with the people who know how to bring humans together. This fast-paced session offers an energetic space to swap community growth strategies, share insights and spark powerful partnerships in minutes. See you there!",
-    "date": "November 11",
-    "starts_at": "2026-11-11T19:20:00Z",
-    "ends_at": "2026-11-11T19:50:00Z",
-    "duration": "",
-    "location": {
-      "id": "be2fc9f6-5df7-4136-a603-68c6320a6865",
-      "name": "Speed Networking",
       "venue": ""
     },
     "timeslot_participations": [],
@@ -19419,58 +20069,6 @@
     "livevoice_url": null
   },
   {
-    "id": "2dc3b321-13eb-44dd-a1a3-4579c9b341d3",
-    "slug": "speed-networking-first-timers-at-web-summit",
-    "title": "⚡️ Speed Networking: First timers at Web Summit",
-    "description": "Attending Web Summit for the very first time? Break the ice and jump straight into the action! This fast-paced session helps you navigate the excitement, meet fellow first-timers, and build an instant community to share your event journey with. Step in and get connected fast!",
-    "date": "November 11",
-    "starts_at": "2026-11-11T20:00:00Z",
-    "ends_at": "2026-11-11T20:30:00Z",
-    "duration": "",
-    "location": {
-      "id": "be2fc9f6-5df7-4136-a603-68c6320a6865",
-      "name": "Speed Networking",
-      "venue": ""
-    },
-    "timeslot_participations": [],
-    "conferenceSlug": "lis26",
-    "schedule_track": {
-      "id": "",
-      "name": "Night Summit",
-      "description": "",
-      "custom_order": 0
-    },
-    "languages": [],
-    "translations": {},
-    "livevoice_url": null
-  },
-  {
-    "id": "756cb5e8-2ce1-4fb0-a679-9ecd66c20fba",
-    "slug": "speed-networking-founders-under-30",
-    "title": "⚡️ Speed Networking: Founders under 30",
-    "description": "Under 30 and building the future? Connect with fellow next-gen entrepreneurs who share your drive and vision. This fast-paced networking session offers an energetic space to share startup stories, bounce ideas off peers and form lasting founder connections in minutes! Come join us!",
-    "date": "November 11",
-    "starts_at": "2026-11-11T20:40:00Z",
-    "ends_at": "2026-11-11T21:10:00Z",
-    "duration": "",
-    "location": {
-      "id": "be2fc9f6-5df7-4136-a603-68c6320a6865",
-      "name": "Speed Networking",
-      "venue": ""
-    },
-    "timeslot_participations": [],
-    "conferenceSlug": "lis26",
-    "schedule_track": {
-      "id": "",
-      "name": "Night Summit",
-      "description": "",
-      "custom_order": 0
-    },
-    "languages": [],
-    "translations": {},
-    "livevoice_url": null
-  },
-  {
     "id": "baf156e4-9559-4498-997f-6f600d31485a",
     "slug": "night-summit-downtown",
     "title": "🌃 Night Summit • Downtown",
@@ -19508,32 +20106,6 @@
     "location": {
       "id": "684df451-df26-4c1e-863e-e28a138e24f5",
       "name": "Social Club",
-      "venue": ""
-    },
-    "timeslot_participations": [],
-    "conferenceSlug": "lis26",
-    "schedule_track": {
-      "id": "",
-      "name": "Night Summit",
-      "description": "",
-      "custom_order": 0
-    },
-    "languages": [],
-    "translations": {},
-    "livevoice_url": null
-  },
-  {
-    "id": "b48daf6e-8bde-4dcf-baa0-cddd43ac41aa",
-    "slug": "speed-networking-global-networking-mixer",
-    "title": "⚡️ Speed Networking: Global networking mixer",
-    "description": "Cross borders and expand your global footprint! Connect with attendees from around the globe in this fast-paced, high-energy networking session. Exchange international perspectives, discover global market opportunities and build a worldwide network in minutes. Meet us there!",
-    "date": "November 11",
-    "starts_at": "2026-11-11T21:20:00Z",
-    "ends_at": "2026-11-11T21:50:00Z",
-    "duration": "",
-    "location": {
-      "id": "be2fc9f6-5df7-4136-a603-68c6320a6865",
-      "name": "Speed Networking",
       "venue": ""
     },
     "timeslot_participations": [],
@@ -20035,11 +20607,11 @@
         "job_title": "Journalist",
         "role": "",
         "avatar_urls": {
-          "tiny": "https://web-summit-engine.imgix.net/772etssc07wfr9catezipdp3br0w?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
-          "thumb": "https://web-summit-engine.imgix.net/772etssc07wfr9catezipdp3br0w?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
-          "medium": "https://web-summit-engine.imgix.net/772etssc07wfr9catezipdp3br0w?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
-          "large": "https://web-summit-engine.imgix.net/772etssc07wfr9catezipdp3br0w?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
-          "original": "https://web-summit-engine.imgix.net/772etssc07wfr9catezipdp3br0w?ixlib=rails-4.3.1"
+          "tiny": "https://web-summit-engine.imgix.net/jt9jq2wuj3876u5yk6zhftbt124b?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/jt9jq2wuj3876u5yk6zhftbt124b?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/jt9jq2wuj3876u5yk6zhftbt124b?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/jt9jq2wuj3876u5yk6zhftbt124b?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/jt9jq2wuj3876u5yk6zhftbt124b?ixlib=rails-4.3.1"
         }
       }
     ],
@@ -20689,11 +21261,11 @@
         "job_title": "Founder & CEO",
         "role": "",
         "avatar_urls": {
-          "tiny": "https://web-summit-engine.imgix.net/knva69gvtix75r2zqj9lw1ijdq0h?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
-          "thumb": "https://web-summit-engine.imgix.net/knva69gvtix75r2zqj9lw1ijdq0h?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
-          "medium": "https://web-summit-engine.imgix.net/knva69gvtix75r2zqj9lw1ijdq0h?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
-          "large": "https://web-summit-engine.imgix.net/knva69gvtix75r2zqj9lw1ijdq0h?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
-          "original": "https://web-summit-engine.imgix.net/knva69gvtix75r2zqj9lw1ijdq0h?ixlib=rails-4.3.1"
+          "tiny": "https://web-summit-engine.imgix.net/ix8k9vv1t1wvwv9nzoxffl8g5nim?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/ix8k9vv1t1wvwv9nzoxffl8g5nim?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/ix8k9vv1t1wvwv9nzoxffl8g5nim?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/ix8k9vv1t1wvwv9nzoxffl8g5nim?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/ix8k9vv1t1wvwv9nzoxffl8g5nim?ixlib=rails-4.3.1"
         }
       }
     ],
@@ -20712,7 +21284,7 @@
     "id": "de76d90c-2ba2-4150-b912-179365f889ee",
     "slug": "tech-talent-hr-meetup",
     "title": "👥 Tech talent & HR meetup",
-    "description": "Calling all tech talent and HR professionals at Web Summit: your people are here! 🙌🏼. Exchange insights, discuss challenges, and expand your network. Join us!",
+    "description": "Calling all HR, people and talent teams at Web Summit 👥. Swap notes on recruiting, retention and building people teams that scale. See you there!",
     "date": "November 12",
     "starts_at": "2026-11-12T11:00:00Z",
     "ends_at": "2026-11-12T11:55:00Z",
@@ -20966,7 +21538,7 @@
   {
     "id": "62d6cbc9-71cd-4411-8c0e-dd4ba765b0a7",
     "slug": "mothers-building-in-tech-meetup",
-    "title": "🚀 Mothers building in tech meetup",
+    "title": "👩‍👧 Mothers building in tech meetup",
     "description": "Calling all mothers who are building in tech at Web Summit: your people are here! 🙌🏼. Exchange insights, discuss challenges, and expand your network. Join us!",
     "date": "November 12",
     "starts_at": "2026-11-12T11:00:00Z",
@@ -22315,7 +22887,7 @@
   {
     "id": "f28b852a-974c-4b6c-a01e-fc4d0c5340dd",
     "slug": "global-marketers-mixer-meetup",
-    "title": "📣 Global marketers mixer meetup",
+    "title": "🎯 Global marketers mixer meetup",
     "description": "Calling all types of marketers at Web Summit: your people are here! 🙌🏼. Exchange insights, discuss challenges, and expand your network. Join us!",
     "date": "November 12",
     "starts_at": "2026-11-12T12:00:00Z",
@@ -22357,6 +22929,48 @@
     "schedule_track": {
       "id": "",
       "name": "Meetup",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
+    "id": "b2637606-0596-4c3c-92b5-888006ec6145",
+    "slug": "music-to-my-ears-and-eyes-why-ai-music-starts-with-video",
+    "title": "Music to my ears (and eyes): Why AI music starts with video",
+    "description": "Most AI music tools rely on text prompts, leaving creators hoping the generated audio matches their footage. Sonilo co-founder Keli Li believes AI audio must start with video itself. Drawing on her work with artists and labels, she unpacks Sonilo’s Sound World Model, showing how video-input architectures generate frame-accurate scores and sound effects to hit every cut. Explore AI tools that empower creators while ensuring rights holders share in the value.",
+    "date": "November 12",
+    "starts_at": "2026-11-12T12:00:00Z",
+    "ends_at": "2026-11-12T12:10:00Z",
+    "duration": "",
+    "location": {
+      "id": "a871cf88-732c-432d-8969-1226f4fc575b",
+      "name": "Stage 9",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "efa98fe4-cd5e-4230-82db-9900419d554e",
+        "name": "Keli Li",
+        "company_name": "Sonilo",
+        "job_title": "Co-founder & COO",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/vgmmh0d2ji0iifnbubva6zs77bsh?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/vgmmh0d2ji0iifnbubva6zs77bsh?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/vgmmh0d2ji0iifnbubva6zs77bsh?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/vgmmh0d2ji0iifnbubva6zs77bsh?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/vgmmh0d2ji0iifnbubva6zs77bsh?ixlib=rails-4.3.1"
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Growth Summit",
       "description": "",
       "custom_order": 0
     },
@@ -23129,6 +23743,32 @@
     "livevoice_url": null
   },
   {
+    "id": "5f4ac039-83e3-4b2b-9415-3efa64804ee1",
+    "slug": "democratising-ai-platform-engineering-with-open-source-hosted-by-cisco-systems",
+    "title": "Democratising AI platform engineering with open-source [Hosted by Cisco Systems]",
+    "description": "AI platform engineering shouldn’t need a big team or blind faith. Open source makes it possible, and CAIPE proves it: a CNCF Sandbox project where every moving part is fully FOSS, live on stage. Please be aware that attendance is first-come, first-served.",
+    "date": "November 12",
+    "starts_at": "2026-11-12T13:00:00Z",
+    "ends_at": "2026-11-12T13:45:00Z",
+    "duration": "",
+    "location": {
+      "id": "55f9b34a-a788-4dca-8df8-f2187b3fae56",
+      "name": "Masterclass 1",
+      "venue": ""
+    },
+    "timeslot_participations": [],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Masterclasses",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "5367202d-2ff3-4bfd-9850-cf8fb4cd95c8",
     "slug": "startup-creator-ip-meetup-with-euipo",
     "title": "Startup & Creator IP meetup with EUIPO",
@@ -23535,8 +24175,8 @@
   {
     "id": "398588e2-b3c2-4edb-9018-3bcee7ccb352",
     "slug": "next-generation-ideas-meetup",
-    "title": "🚀 Next-generation ideas meetup",
-    "description": "The next big idea hasn't been pitched yet: it's in this room. Meet the founders, innovators, and investors chasing it at Web Summit. Join us!",
+    "title": "🔭 Next-generation ideas meetup",
+    "description": "Got an idea you haven't built yet 🔭? Bring it along, test it on fellow early thinkers, get honest feedback and maybe find the co-founder who makes it real. See you there!",
     "date": "November 12",
     "starts_at": "2026-11-12T13:30:00Z",
     "ends_at": "2026-11-12T13:55:00Z",
@@ -23925,8 +24565,8 @@
   {
     "id": "e59f6cc9-a9ac-4cd9-bb23-bbc14f01d14f",
     "slug": "ventures-builders-meetup",
-    "title": "⚡ Ventures & builders meetup",
-    "description": "Calling all investors and tech builders at Web Summit: your people are here! 🙌🏼.Exchange insights, discuss challenges, and expand your network. Join us!",
+    "title": "💼 Ventures & builders meetup",
+    "description": "Investors, meet the builders 💼. A room for VCs, angels and tech founders to skip the cold emails, talk about what you're backing or building and spot your next deal. See you there!",
     "date": "November 12",
     "starts_at": "2026-11-12T14:00:00Z",
     "ends_at": "2026-11-12T14:55:00Z",
@@ -24034,7 +24674,23 @@
       "name": "Masterclass 2",
       "venue": ""
     },
-    "timeslot_participations": [],
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "1512ae77-9836-409e-82ce-a199f8bc2102",
+        "name": "Larissa Schneider",
+        "company_name": "Unframe",
+        "job_title": "Co-Founder & COO",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/htsov5grcck9j6litbhivdqgb8ey?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/htsov5grcck9j6litbhivdqgb8ey?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/htsov5grcck9j6litbhivdqgb8ey?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/htsov5grcck9j6litbhivdqgb8ey?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/htsov5grcck9j6litbhivdqgb8ey?ixlib=rails-4.3.1"
+        }
+      }
+    ],
     "conferenceSlug": "lis26",
     "schedule_track": {
       "id": "",
@@ -24881,23 +25537,7 @@
       "name": "Stage 13",
       "venue": ""
     },
-    "timeslot_participations": [
-      {
-        "id": "",
-        "attendance_id": "90f434bd-9dc9-4714-91fa-09a57dae90f9",
-        "name": "Yang Li",
-        "company_name": "Cosine",
-        "job_title": "Co-founder & COO",
-        "role": "",
-        "avatar_urls": {
-          "tiny": "https://web-summit-engine.imgix.net/wy3uvdrvyhf05560ofg82tiv4hlm?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
-          "thumb": "https://web-summit-engine.imgix.net/wy3uvdrvyhf05560ofg82tiv4hlm?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
-          "medium": "https://web-summit-engine.imgix.net/wy3uvdrvyhf05560ofg82tiv4hlm?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
-          "large": "https://web-summit-engine.imgix.net/wy3uvdrvyhf05560ofg82tiv4hlm?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
-          "original": "https://web-summit-engine.imgix.net/wy3uvdrvyhf05560ofg82tiv4hlm?ixlib=rails-4.3.1"
-        }
-      }
-    ],
+    "timeslot_participations": [],
     "conferenceSlug": "lis26",
     "schedule_track": {
       "id": "",
@@ -25572,7 +26212,7 @@
     "id": "06494188-e8f4-4e7f-b5b6-c95630d44c46",
     "slug": "building-a-business-on-social-meetup",
     "title": "🤳 Building a business on social meetup",
-    "description": "Your best salesperson might be a 30-second video. Meet the creators, social sellers, and brand builders proving it at Web Summit. Join us!",
+    "description": "Your best salesperson might be a 30-second video 🤳. Meet founders, marketers and social sellers turning content into customers, and swap notes on what's converting right now. See you there!",
     "date": "November 12",
     "starts_at": "2026-11-12T15:00:00Z",
     "ends_at": "2026-11-12T15:55:00Z",
@@ -25948,6 +26588,63 @@
     "livevoice_url": null
   },
   {
+    "id": "f6cba0c6-ad53-4826-bf16-15b7cd921652",
+    "slug": "just-what-the-dev-ordered-healthcare-s-ai-revolution",
+    "title": "Just what the dev ordered: Healthcare’s AI revolution",
+    "description": "Healthcare is notorious for its fragmented legacy software. Join Heidi Health CTO Yu Liu and Stellarus CTO Greg Ryslik as they explore how today's engineers are rewriting the rules of clinical technology. From ambient AI that listens to patient consultations to the data architecture behind a universal healthcare platform, this panel will unpack how developers can solve legacy healthcare problems.",
+    "date": "November 12",
+    "starts_at": "2026-11-12T15:25:00Z",
+    "ends_at": "2026-11-12T15:45:00Z",
+    "duration": "",
+    "location": {
+      "id": "685b779a-20e7-4280-b402-b239764fb6d6",
+      "name": "Stage 10",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "14dcac5e-a1f4-4af4-9af6-1e7d4ca8f20f",
+        "name": "Greg Ryslik",
+        "company_name": "Stellarus",
+        "job_title": "Chief Technology Officer",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/ongnarjithoc6y64maktkdozcej0?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/ongnarjithoc6y64maktkdozcej0?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/ongnarjithoc6y64maktkdozcej0?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/ongnarjithoc6y64maktkdozcej0?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/ongnarjithoc6y64maktkdozcej0?ixlib=rails-4.3.1"
+        }
+      },
+      {
+        "id": "",
+        "attendance_id": "e206e8a2-9fc4-4bdb-99dc-417049f29959",
+        "name": "Yu Liu",
+        "company_name": "Heidi Health",
+        "job_title": "CoFounder and CTO",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/cu9lg0o2lleg79uoua0r1c2bqwrk?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/cu9lg0o2lleg79uoua0r1c2bqwrk?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/cu9lg0o2lleg79uoua0r1c2bqwrk?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/cu9lg0o2lleg79uoua0r1c2bqwrk?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/cu9lg0o2lleg79uoua0r1c2bqwrk?ixlib=rails-4.3.1"
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Developer Summit",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
     "id": "bc131cd3-e862-4d88-8855-909418fbdda1",
     "slug": "entertainment-media-leaders-meetup",
     "title": "🎬 Entertainment & media leaders meetup",
@@ -25959,32 +26656,6 @@
     "location": {
       "id": "f27b2b4f-bd9d-46f8-af42-8370df6f6982",
       "name": "Meetup 2",
-      "venue": ""
-    },
-    "timeslot_participations": [],
-    "conferenceSlug": "lis26",
-    "schedule_track": {
-      "id": "",
-      "name": "Meetup",
-      "description": "",
-      "custom_order": 0
-    },
-    "languages": [],
-    "translations": {},
-    "livevoice_url": null
-  },
-  {
-    "id": "88cffcda-4561-4c3d-9cd6-7fa8a692ffec",
-    "slug": "hiring-your-first-team-meetup",
-    "title": "🤝 Hiring your first team meetup",
-    "description": "Your first ten hires will shape your company for years 🤝. Meet founders building their early teams and swap notes on where to find talent and how to get culture right from day one. See you there!",
-    "date": "November 12",
-    "starts_at": "2026-11-12T15:30:00Z",
-    "ends_at": "2026-11-12T15:55:00Z",
-    "duration": "",
-    "location": {
-      "id": "8d875587-df85-4a47-a3cf-fe6bc124700c",
-      "name": "Meetup 6",
       "venue": ""
     },
     "timeslot_participations": [],
@@ -26132,6 +26803,48 @@
     "schedule_track": {
       "id": "",
       "name": "Sport Summit",
+      "description": "",
+      "custom_order": 0
+    },
+    "languages": [],
+    "translations": {},
+    "livevoice_url": null
+  },
+  {
+    "id": "0753d94e-3227-408e-b04d-a095ee327061",
+    "slug": "ai-sprawl-is-exploding-get-ahead-of-governance-and-security-challenges-before-it-s-boo-late",
+    "title": "AI sprawl is exploding. Get ahead of governance and security challenges before it’s boo late",
+    "description": "The rapid surge of AI and autonomous agents introduces risks that traditional security measures cannot address, placing new demands on organisations to govern AI sprawl across the enterprise. Learn how top organisations gain visibility over their AI infrastructure through practical strategies for discovering AI assets, implementing governance frameworks, orchestrating agent workflows and maintaining accountability in AI-driven decisions.",
+    "date": "November 12",
+    "starts_at": "2026-11-12T15:37:00Z",
+    "ends_at": "2026-11-12T15:48:00Z",
+    "duration": "",
+    "location": {
+      "id": "a871cf88-732c-432d-8969-1226f4fc575b",
+      "name": "Stage 9",
+      "venue": ""
+    },
+    "timeslot_participations": [
+      {
+        "id": "",
+        "attendance_id": "770add22-7f4e-4d16-97f2-88e9696d503b",
+        "name": "Kevin Kiley",
+        "company_name": "Airia AI",
+        "job_title": "CEO",
+        "role": "",
+        "avatar_urls": {
+          "tiny": "https://web-summit-engine.imgix.net/igepzmfgm6k2nh6uwkfx9onamajc?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/igepzmfgm6k2nh6uwkfx9onamajc?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/igepzmfgm6k2nh6uwkfx9onamajc?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/igepzmfgm6k2nh6uwkfx9onamajc?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/igepzmfgm6k2nh6uwkfx9onamajc?ixlib=rails-4.3.1"
+        }
+      }
+    ],
+    "conferenceSlug": "lis26",
+    "schedule_track": {
+      "id": "",
+      "name": "Growth Summit",
       "description": "",
       "custom_order": 0
     },
@@ -26555,11 +27268,11 @@
         "job_title": "Executive Director",
         "role": "",
         "avatar_urls": {
-          "tiny": "https://web-summit-engine.imgix.net/ym7tlx2s8je3g1189gh8wj88hmq8?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
-          "thumb": "https://web-summit-engine.imgix.net/ym7tlx2s8je3g1189gh8wj88hmq8?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
-          "medium": "https://web-summit-engine.imgix.net/ym7tlx2s8je3g1189gh8wj88hmq8?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
-          "large": "https://web-summit-engine.imgix.net/ym7tlx2s8je3g1189gh8wj88hmq8?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
-          "original": "https://web-summit-engine.imgix.net/ym7tlx2s8je3g1189gh8wj88hmq8?ixlib=rails-4.3.1"
+          "tiny": "https://web-summit-engine.imgix.net/ml73740w4ni8lmqxvadh1a0jnom7?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=48&h=48",
+          "thumb": "https://web-summit-engine.imgix.net/ml73740w4ni8lmqxvadh1a0jnom7?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=100&h=100",
+          "medium": "https://web-summit-engine.imgix.net/ml73740w4ni8lmqxvadh1a0jnom7?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=300&h=300",
+          "large": "https://web-summit-engine.imgix.net/ml73740w4ni8lmqxvadh1a0jnom7?ixlib=rails-4.3.1&auto=format&fit=crop&crop=faces&w=600&h=600",
+          "original": "https://web-summit-engine.imgix.net/ml73740w4ni8lmqxvadh1a0jnom7?ixlib=rails-4.3.1"
         }
       }
     ],
